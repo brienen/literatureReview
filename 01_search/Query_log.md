@@ -11,11 +11,11 @@ Dit bestand registreert **alle daadwerkelijk uitgevoerde zoekopdrachten**, inclu
 
 ## Query-overzicht
 
-| ID  | Datum      | Databank       | Query (samengevat)                        | Filters / Limieten        | # Resultaten                        | Export | Opmerkingen     |                                 |
-| --- | ---------- | -------------- | ----------------------------------------- | ------------------------- | ----------------------------------- | ------ | --------------- | ------------------------------- |
-| Q1  | 2026-01-15 | Scopus         | Semantic interoperability & domain models | Zie `queries.md` §Scopus  | Subject areas: CS, IS; Language: EN | 243    | `scopus_Q1.csv` | Initiële brede search           |
-| Q2  | 2026-01-15 | Web of Science | Semantic interoperability & domain models | Zie `queries.md` §WoS     | Categories: CS, PA; Language: EN    | 198    | `wos_Q2.xlsx`   | Licht smaller bereik            |
-| Q3  | 2026-01-15 | Google Scholar | Semantic interoperability & public sector | Zie `queries.md` §Scholar | Since 2005; Sort by relevance       | ~320   | n.v.t.          | Indicatief, handmatig gescreend |
+| ID  | Datum      | Databank | Query (samengevat)                            | Filters / Limieten      | # Resultaten                                    | Export | Opmerkingen                                                          |                      |
+| --- | ---------- | -------- | --------------------------------------------- | ----------------------- | ----------------------------------------------- | ------ | -------------------------------------------------------------------- | -------------------- |
+| Q1  | 2026-01-16 | Scopus   | MVQ Semantic interoperability & domain models | Zie [[Query]] §Scopus_1 | Subject areas: CS, IS; Language: EN; After 1999 | 392    | Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris | Initiële core search |
+|     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
+|     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
 
 ## Kolomdefinities
 

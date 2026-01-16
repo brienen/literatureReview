@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_search/Query.md",
+                "file": "01_search/Query_log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query"
+              "title": "Query_log"
             }
           },
           {
@@ -288,12 +288,13 @@
   },
   "active": "8090b2137c0f0123",
   "lastOpenFiles": [
+    "01_search/Query.md",
+    "01_search/exports/Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris",
     "00_protocol/Protocol.md",
     "00_protocol/Amendments_log.md",
     "00_protocol/Inclusion_criteria.md",
     "01_search/Query_log.md",
     "04_fulltext/eligibility_log.md",
-    "01_search/Query.md",
     "README.md.md",
     "06_synthesis/drafts",
     "06_synthesis/figures",
@@ -304,7 +305,6 @@
     "04_fulltext/included_fulltexts",
     "03_screening/asreview",
     "01_search/logs",
-    "01_search/queries",
     "Welcome.md"
   ]
 }

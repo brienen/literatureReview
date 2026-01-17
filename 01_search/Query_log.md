@@ -13,7 +13,7 @@ Dit bestand registreert **alle daadwerkelijk uitgevoerde zoekopdrachten**, inclu
 
 | ID  | Datum      | Databank | Query (samengevat)                            | Filters / Limieten      | # Resultaten                                    | Export | Opmerkingen                                                          |                      |
 | --- | ---------- | -------- | --------------------------------------------- | ----------------------- | ----------------------------------------------- | ------ | -------------------------------------------------------------------- | -------------------- |
-| Q1  | 2026-01-16 | Scopus   | MVQ Semantic interoperability & domain models | Zie [[Query]] §Scopus_1 | Subject areas: CS, IS; Language: EN; After 1999 | 392    | Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris | Initiële core search |
+| Q1  | 2026-01-17 | Scopus   | MVQ Semantic interoperability & domain models | Zie [[Query]] §Scopus_2 | Subject areas: CS, IS; Language: EN; After 1999 | 294    | Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.ris | Initiële core search |
 |     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
 |     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
 

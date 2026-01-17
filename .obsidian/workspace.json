@@ -289,11 +289,13 @@
   "active": "8090b2137c0f0123",
   "lastOpenFiles": [
     "01_search/Query.md",
-    "01_search/exports/Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris",
+    "01_search/exports/Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.ris",
+    "01_search/Query_log.md",
+    "01_search/exports/Scopus_2_export_Jan 16-2026_47fd70fe-2fcb-437e-b1c1-06333e08ae8f.ris",
     "00_protocol/Protocol.md",
+    "01_search/exports/Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris",
     "00_protocol/Amendments_log.md",
     "00_protocol/Inclusion_criteria.md",
-    "01_search/Query_log.md",
     "04_fulltext/eligibility_log.md",
     "README.md.md",
     "06_synthesis/drafts",
@@ -303,8 +305,6 @@
     "05_coding/exports",
     "05_coding/atlas",
     "04_fulltext/included_fulltexts",
-    "03_screening/asreview",
-    "01_search/logs",
     "Welcome.md"
   ]
 }

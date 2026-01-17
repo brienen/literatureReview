@@ -27,7 +27,6 @@ TITLE-ABS-KEY(
     OR "information model*"
     OR "domain model*"
     OR "data model*"
-    OR "metadata model*"
     OR "semantic infrastructure*"
     OR "thesaur*" OR "taxonom*" OR "controlled vocabular*"
   )
@@ -41,7 +40,6 @@ TITLE-ABS-KEY(
     OR "open government data"
     OR "public service*"
     OR "european union"
-    OR EU
   )
 )
 AND PUBYEAR > 1999 AND (LIMIT-TO(LANGUAGE, "English"))

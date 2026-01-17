@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_search/Query_log.md",
+                "file": "00_protocol/Inclusion_criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query_log"
+              "title": "Inclusion_criteria"
             }
           },
           {
@@ -289,22 +289,22 @@
   "active": "8090b2137c0f0123",
   "lastOpenFiles": [
     "01_search/Query.md",
-    "01_search/exports/Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.ris",
+    "03_screening/01_CoreScreening_Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.csv",
+    "01_search/results/Previous Studies/files/1810/Hyvönen - 2024 - How to create and use a national cross-domain ontology and data infrastructure on the Semantic Web.pdf",
+    "01_search/results/Previous Studies/files/1760/Sinaci en Laleci Erturkmen - 2013 - A federated semantic metadata registry framework for enabling interoperability across clinical resea.pdf",
+    "01_search/results/Previous Studies/files/1712/Maratsi e.a. - A Categorization of Cross-Domain Semantic Interoperability Challenges for Open (Government) Data.pdf",
+    "01_search/results/Previous Studies/files/1648/Margariti e.a. - 2022 - A holistic model for assessing organizational interoperability in public administration.pdf",
+    "01_search/results/Previous Studies/files/1681/Karunarathne e.a. - 2022 - A Canonical Evidence-based Approach for Semantic Interoperability in Cross-border and Cross-domain e.pdf",
+    "01_search/results/Previous Studies/files/1683/Ojo e.a. - 2010 - Semantic interoperability architecture for Governance 2.0.pdf",
+    "01_search/results/Previous Studies/files/1633/Sharma en Panigrahi - 2015 - Developing a roadmap for planning and implementation of interoperability capability in e-government.pdf",
+    "01_search/results/Previous Studies/files/1810",
+    "01_search/results/Previous Studies/files/1760",
     "01_search/Query_log.md",
-    "01_search/exports/Scopus_2_export_Jan 16-2026_47fd70fe-2fcb-437e-b1c1-06333e08ae8f.ris",
     "00_protocol/Protocol.md",
-    "01_search/exports/Scopus_2_export_Jan 16-2026_b8b47490-49b5-44ab-a949-e1568c40c2e2.ris",
     "00_protocol/Amendments_log.md",
     "00_protocol/Inclusion_criteria.md",
     "04_fulltext/eligibility_log.md",
     "README.md.md",
-    "06_synthesis/drafts",
-    "06_synthesis/figures",
-    "06_synthesis/tables",
-    "05_coding/memos",
-    "05_coding/exports",
-    "05_coding/atlas",
-    "04_fulltext/included_fulltexts",
     "Welcome.md"
   ]
 }

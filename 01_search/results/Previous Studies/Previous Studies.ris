@@ -1,0 +1,183 @@
+TY  - JOUR
+TI  - Developing a roadmap for planning and implementation of interoperability capability in e-government
+AU  - Sharma, Rajesh
+AU  - Panigrahi, Prabin Kumar
+T2  - Transforming Government: People, Process and Policy
+AB  - Purpose – The purpose of this paper is to propose a tool in the form of a roadmap for planning and implementation of interoperability capabilities. The issue of interoperability is gaining importance for offering services as “one-stop shop” due to rapid developments in the field of e-government in recent times. Several complexities are associated with this important dimension, and there is an urgent need for developing a tool to facilitate rollout of e-government projects with interoperability capabilities. The proposed roadmap can enable knowledge sharing among key stakeholders for building a common vision and contribute to planning and implementation of interoperability features of e-government.
+DA  - 2015/10/19/
+PY  - 2015
+DO  - 10.1108/TG-06-2014-0023
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 4
+SP  - 426
+EP  - 447
+LA  - en
+SN  - 1750-6166
+UR  - http://www.emerald.com/tg/article/9/4/426-447/375711
+Y2  - 2025/10/31/11:39:26
+L1  - files/1633/Sharma en Panigrahi - 2015 - Developing a roadmap for planning and implementation of interoperability capability in e-government.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:Time=2025-10-31 15:53
+KW  - DONE
+ER  - 
+
+TY  - JOUR
+TI  - A holistic model for assessing organizational interoperability in public administration
+AU  - Margariti, Vasiliki
+AU  - Stamati, Teta
+AU  - Anagnostopoulos, Dimosthenis
+AU  - Nikolaidou, Mara
+AU  - Papastilianou, Anastasia
+T2  - Government Information Quarterly
+AB  - Achieving organizational interoperability in public administration is a crucial factor for successful digital transformation, although there are still many challenges and limitations regarding organizational factors. A detailed and comparative review on the evaluation of existing assessment models and tools is provided revealing the need for a holistic assessment. As result of the research, a new model is introduced for organizational interoperability assessment enhancing existing holistic models and corresponding tools with additional attributes. The development process of the new model (MOIA) is presented and the justification of alignment with the corresponding recommendations of the new European Interoperability Framework (EIF) is described. An incremental methodological approach of evaluation waves is followed to assess the additional attributes required to consider barriers and concerns regarding organizational interoperability. The Greek Electronic Public Procurement System (ESIDIS) used as the case study to validate the use of the model and calculate model’s attributes weights.
+DA  - 2022/07//
+PY  - 2022
+DO  - 10.1016/j.giq.2022.101712
+DP  - DOI.org (Crossref)
+VL  - 39
+IS  - 3
+SP  - 101712
+J2  - Government Information Quarterly
+LA  - en
+SN  - 0740624X
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0740624X22000454
+Y2  - 2025/10/31/11:24:47
+L1  - files/1648/Margariti e.a. - 2022 - A holistic model for assessing organizational interoperability in public administration.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:Time=2025-10-31 16:31
+KW  - DONE
+ER  - 
+
+TY  - CONF
+TI  - A Canonical Evidence-based Approach for Semantic Interoperability in Cross-border and Cross-domain e-Government Services
+AU  - Karunarathne, Thashmee
+AU  - Kontopoulos, Efstratios
+AU  - Konstantinidis, Ioannis
+AU  - Guzmán Carbonell, Ana Rosa
+T2  - ICEGOV 2022: 15th International Conference on Theory and Practice of Electronic Governance
+AB  - This paper demonstrates a proof of concept for cross-border information exchange guided by the single digital gateway regulation (SDGR) and once-only principle (OOP). The research systematically investigates the challenges and limitations of existing solutions for semantic interoperability. Furthermore, the concept of canonical evidence is introduced as a tool for the cross-border exchange of structured data automatically with less ambiguity and in compliance with the legal requirements of the selected public services. A design science research approach in an agile set-up is applied in the artefact (canonical evidences) development process. The requirements are elicited based on eight case studies set up in the context of the EU initiative, Digital Europe for all (DE4A). The data models developed in this study are in compliance with the requirements and provisions of a selected set of EU member states. The outcome of the study includes eleven evidence types that could be reusable in executing procedures of respective e-Government services.
+C1  - Guimarães Portugal
+C3  - Proceedings of the 15th International Conference on Theory and Practice of Electronic Governance
+DA  - 2022/10/04/
+PY  - 2022
+DO  - 10.1145/3560107.3560299
+DP  - DOI.org (Crossref)
+SP  - 131
+EP  - 139
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-9635-6
+UR  - https://dl.acm.org/doi/10.1145/3560107.3560299
+Y2  - 2025/10/31/11:00:51
+L1  - files/1681/Karunarathne e.a. - 2022 - A Canonical Evidence-based Approach for Semantic Interoperability in Cross-border and Cross-domain e.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:Time=2025-10-31 15:57
+KW  - DONE
+ER  - 
+
+TY  - JOUR
+TI  - Semantic interoperability architecture for Governance 2.0
+AU  - Ojo, Adegboyega
+AU  - Estevez, Elsa
+AU  - Janowski, Tomasz
+T2  - Information Polity
+AB  - The increasing use of social media by governments for improving citizen access to information, participation of stakeholders in policy processes and delivery of customer-focused services are among the deﬁning features of the socalled “Governance 2.0” phenomenon. Another feature is the interaction between existing government networks and social networks of citizens and policy actors in order to disseminate government information and seek contributions from citizens and other actors to policies, decisions and services. This article examines the semantic issues associated with the emerging Governance 2.0 networks. It evolves an architectural framework to guide governments and their agencies in developing semantic interoperability capabilities. We approach the problem by ﬁrst developing a conceptual model for analyzing semantic interoperability requirements in general. Next, we provide a case study to generate interesting scenarios and identify concrete semantic interoperability issues arising from the interactions between citizens, businesses and government through traditional and electronic channels and different forms of social media. Subsequently, we present a Semantic Interoperability Architecture Framework to address these issues based on existing government semantic interoperability frameworks and semantic standards for Web 2.0. After validating the prescribed framework, we discuss how it could be used in practice by governments.
+DA  - 2010/08/04/
+PY  - 2010
+DO  - 10.3233/IP-2010-0199
+DP  - DOI.org (Crossref)
+VL  - 15
+IS  - 1,2
+SP  - 105
+EP  - 123
+J2  - IP
+LA  - en
+SN  - 18758754, 15701255
+UR  - https://journals.sagepub.com/doi/full/10.3233/IP-2010-0199
+Y2  - 2025/10/31/11:00:48
+L1  - files/1683/Ojo e.a. - 2010 - Semantic interoperability architecture for Governance 2.0.pdf
+KW  - review:Decision=included
+KW  - review:Time=2025-10-31 15:50
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - DONE
+ER  - 
+
+TY  - JOUR
+TI  - A Categorization of Cross-Domain Semantic Interoperability Challenges for Open (Government) Data
+AU  - Maratsi, Maria Ioanna
+AU  - Charalabidis, Yannis
+AU  - Alexopoulos, Charalampos
+AB  - The benefits of open data have by now been extensively investigated. However, the generated data grows at a rapid pace and, with it, a plethora of concerns including, among others, data quality, interpretability, machine-readability, and interoperability. The present study aims to review recent literature regarding the semantic interoperability challenges for open (and government) data and to examine the status for difficult areas of research which have not yet been sufficiently addressed. The literature review revealed various sector-specific but also general, cross-domain challenges, which were then categorized into four groups according to the source where the issue usually stems from. As far as the status of approaches to the identified challenges is concerned, there appears to be a tendency to avoid fit-to-all solutions and instead follow a more domain-specific strategy to enable semantic interoperability, and allow for cross-domain reuse, wherever this is possible.
+DA  - 2023/09//
+PY  - 2023
+DO  - 10.5281/zenodo.8405353
+DP  - Zotero
+LA  - en
+L1  - files/1712/Maratsi e.a. - A Categorization of Cross-Domain Semantic Interoperability Challenges for Open (Government) Data.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_high=1
+KW  - DONE
+ER  - 
+
+TY  - JOUR
+TI  - A federated semantic metadata registry framework for enabling interoperability across clinical research and care domains
+AU  - Sinaci, A. Anil
+AU  - Laleci Erturkmen, Gokce B.
+T2  - Journal of Biomedical Informatics
+AB  - In order to enable secondary use of Electronic Health Records (EHRs) by bridging the interoperability gap between clinical care and research domains, in this paper, a uniﬁed methodology and the supporting framework is introduced which brings together the power of metadata registries (MDR) and semantic web technologies. We introduce a federated semantic metadata registry framework by extending the ISO/IEC 11179 standard, and enable integration of data element registries through Linked Open Data (LOD) principles where each Common Data Element (CDE) can be uniquely referenced, queried and processed to enable the syntactic and semantic interoperability. Each CDE and their components are maintained as LOD resources enabling semantic links with other CDEs, terminology systems and with implementation dependent content models; hence facilitating semantic search, much effective reuse and semantic interoperability across different application domains. There are several important efforts addressing the semantic interoperability in healthcare domain such as IHE DEX proﬁle proposal, CDISC SHARE and CDISC2RDF. Our architecture complements these by providing a framework to interlink existing data element registries and repositories for multiplying their potential for semantic interoperability to a greater extent. Open source implementation of the federated semantic MDR framework presented in this paper is the core of the semantic interoperability layer of the SALUS project which enables the execution of the post marketing safety analysis studies on top of existing EHR systems.
+DA  - 2013/10//
+PY  - 2013
+DO  - 10.1016/j.jbi.2013.05.009
+DP  - DOI.org (Crossref)
+VL  - 46
+IS  - 5
+SP  - 784
+EP  - 794
+J2  - Journal of Biomedical Informatics
+LA  - en
+SN  - 15320464
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1532046413000750
+Y2  - 2025/11/20/19:38:07
+L1  - files/1760/Sinaci en Laleci Erturkmen - 2013 - A federated semantic metadata registry framework for enabling interoperability across clinical resea.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_high=1
+KW  - DONE
+ER  - 
+
+TY  - JOUR
+TI  - How to create and use a national cross-domain ontology and data infrastructure on the Semantic Web
+AU  - Hyvönen, Eero
+T2  - Semantic Web
+A2  - Corcho, Oscar
+AB  - This paper presents a model and lessons learned for creating a cross-domain national ontology and Linked (Open) Data (LOD) infrastructure. The idea is to extend the global, domain agnostic “layer cake model” underlying the Semantic Web with domain speciﬁc and local features needed in applications. To test and demonstrate the infrastructure, a series of LOD services and portals in use have been created in 2002–2023 that cover a wide range of application domains. They have attracted millions of users in total suggesting feasibility of the proposed model. This line of research and development is unique due to its systematic national level nature and long time span of over twenty years.
+DA  - 2024/10/04/
+PY  - 2024
+DO  - 10.3233/SW-243468
+DP  - DOI.org (Crossref)
+VL  - 15
+IS  - 4
+SP  - 1499
+EP  - 1513
+J2  - SW
+LA  - en
+SN  - 22104968, 15700844
+UR  - https://journals.sagepub.com/doi/full/10.3233/SW-243468
+Y2  - 2025/11/21/21:13:39
+L1  - files/1810/Hyvönen - 2024 - How to create and use a national cross-domain ontology and data infrastructure on the Semantic Web.pdf
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_high=1
+KW  - DONE
+ER  - 
+

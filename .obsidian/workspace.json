@@ -6,7 +6,6 @@
       {
         "id": "f66b26cd9d6f55af",
         "type": "tabs",
-        "dimension": 75.56423611111111,
         "children": [
           {
             "id": "e14b1a9d693a310b",
@@ -56,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_protocol/Inclusion_criteria.md",
+                "file": "05_coding/Codebook Old.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inclusion_criteria"
+              "title": "Codebook Old"
             }
           },
           {
@@ -108,23 +107,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9f5524341bf7449f",
-        "type": "tabs",
-        "dimension": 24.435763888888893,
-        "children": [
-          {
-            "id": "80201a36eac4d460",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -288,6 +270,10 @@
   },
   "active": "8090b2137c0f0123",
   "lastOpenFiles": [
+    "05_coding/exports/Literature Review MDIMs – Code List.xlsx",
+    "00_protocol/Inclusion_criteria.md",
+    "05_coding/Codebook Old.md",
+    "05_coding/Codebook.md",
     "01_search/Query.md",
     "03_screening/01_CoreScreening_Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.csv",
     "01_search/results/Previous Studies/files/1810/Hyvönen - 2024 - How to create and use a national cross-domain ontology and data infrastructure on the Semantic Web.pdf",
@@ -302,7 +288,6 @@
     "01_search/Query_log.md",
     "00_protocol/Protocol.md",
     "00_protocol/Amendments_log.md",
-    "00_protocol/Inclusion_criteria.md",
     "04_fulltext/eligibility_log.md",
     "README.md.md",
     "Welcome.md"

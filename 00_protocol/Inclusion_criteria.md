@@ -45,3 +45,9 @@ last_updated: 2026-01-15
 
 - **EC4 – Non-scholarly publication type**  
   Editorials, opinion pieces, posters, tutorials, and other non-peer-reviewed publications are excluded unless explicitly classified as supplementary grey literature.
+
+- **EC5 – Non-government focus**  
+  No clear focus on government data.
+
+- **EC6 – Insufficient conceptual or analytical depth**  
+  > _Studies that remain primarily descriptive and do not articulate, analyze, or theorize the underlying concepts, relationships, mechanisms, or assumptions relevant to the research question.

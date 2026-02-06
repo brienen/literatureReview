@@ -43,8 +43,8 @@ last_updated: 2026-01-15
 - **EC3 – Narrow domain specificity**  
   The study focuses on a highly specific domain, dataset, or case without addressing broader interoperability challenges or transferable concepts.
 
-- **EC4 – Non-scholarly publication type**  
-  Editorials, opinion pieces, posters, tutorials, and other non-peer-reviewed publications are excluded unless explicitly classified as supplementary grey literature.
+- **EC4 – Non-scholarly publication type**
+    Editorials, opinion pieces, posters, tutorials, **workshop or conference introductions**, calls for participation, and other non-peer-reviewed publications are excluded, unless explicitly classified as supplementary grey literature.
 
 - **EC5 – Non-government focus**  
   No clear focus on government data.

@@ -49,5 +49,32 @@ last_updated: 2026-01-15
 - **EC5 – Non-government focus**  
   No clear focus on government data.
 
-- **EC6 – Insufficient conceptual or analytical depth**  
-  > _Studies that remain primarily descriptive and do not articulate, analyze, or theorize the underlying concepts, relationships, mechanisms, or assumptions relevant to the research question.
+## Full text Scoring Criteria
+
+**A. Topical Relevance (0–2)**
+Question To what extent does the article substantively address semantic interoperability in public-sector or cross-organizational contexts?
+Scoring 
+- 0: Semantic interoperability is not a substantive focus or is only mentioned incidentally. 
+- 1: Semantic interoperability is discussed, but not as the central research focus or not clearly situated in a public-sector or cross-organizational context. 
+- 2: Semantic interoperability is a central focus of the article and is explicitly situated in a public-sector, inter-organizational, or regulated multi-actor context.
+
+**B. Analytical Contribution (0–2)**
+Question What type of analytical contribution does the article make beyond description?
+Scoring 
+- 0: The article is primarily descriptive and does not articulate challenges, requirements, or solutions. 
+- 1: The article identifies challenges, barriers, or problems, or describes solutions, but does not analytically link problems to solutions or requirements. 
+- 2: The article explicitly links challenges to requirements, principles, or solutions.
+
+**C. Level of Abstraction and Transferability (0–2)**
+Question To what extent are the insights abstracted from the specific empirical context and articulated in a reusable form?
+Scoring 
+- 0: The contribution is analytically bound to a single case, system, organization, or jurisdiction, with no abstraction beyond that context. 
+- 1: The article partially abstracts insights, but generalization is implicit, weakly structured, or limited to similar contexts. 
+- 2: The article presents abstracted concepts such as frameworks, models, typologies, mechanisms, or design principles that are explicitly intended to be applicable across domains or jurisdictions.
+
+**D. Conceptual and Methodological Rigor (0–2)**
+Question How clearly and coherently is the contribution conceptually and methodologically grounded?
+Scoring 
+- 0: Concepts are poorly defined, reasoning is unclear, or methodology is absent or inconsistent. 
+- 1: Concepts and methods are described with limited clarity or depth, but the contribution is interpretable. 
+- 2: Concepts are clearly defined, reasoning is coherent, and the methodological or conceptual approach is explicit and well-argued.

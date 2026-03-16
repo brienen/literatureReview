@@ -69,7 +69,7 @@ Reasons for exclusion at the full-text stage are documented in [[eligibility_log
 
 ## 7. Eligibility criteria
 
-Eligibility criteria are defined a priori and documented in [[Inclusion_criteria]].
+Eligibility criteria are defined a priori and documented in [[Criteria]].
 
 During abstract screening, criteria are applied conservatively to maximize recall.
 During full-text assessment, all criteria are applied in full.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_protocol/Article Types.md",
+                "file": "01_search/Query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Types"
+              "title": "Query"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d694805c6572229a",
@@ -224,8 +224,14 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "679fc5f218030d65",
+  "active": "8090b2137c0f0123",
   "lastOpenFiles": [
+    "01_search/Query_log.md",
+    "01_search/Query.md",
+    "01_search/results/OpenAlex_March_3RD_works-ris-cEX3cmooqmMmaj3eMhvmMb.ris",
+    "00_protocol/Article Types.md",
+    "00_protocol/Protocol.md",
+    "00_protocol/Criteria.md",
     "04_fulltext/~$fullTextScreening.xlsx",
     "04_fulltext/fullTextScreening.xlsx",
     "00_protocol/Amendments_log.md",
@@ -237,16 +243,9 @@
     "05_coding/atlas/Literature Review MDIMs - Code Manager.xlsx",
     "05_coding/atlas/~$Literature Review MDIMs - Quotation Manager.xlsx",
     "05_coding/atlas/Literature Review MDIMs - Quotation Manager.xlsx",
-    "05_coding/atlas/Literature Review MDIMs – Code List.xlsx",
-    "05_coding/atlas/Literature Review MDIMs.xml",
     "05_coding/Codebook Old.md",
     "10_logboek/Logboek.md",
-    "00_protocol/Criteria.md",
-    "00_protocol/Article Types.md",
-    "00_protocol/Protocol.md",
     "05_coding/Codebook.md",
-    "01_search/Query.md",
-    "01_search/Query_log.md",
     "README.md.md",
     "Welcome.md"
   ]

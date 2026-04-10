@@ -11,11 +11,11 @@ Dit bestand registreert **alle daadwerkelijk uitgevoerde zoekopdrachten**, inclu
 
 ## Query-overzicht
 
-| ID  | Datum      | Databank | Query (samengevat)                            | Filters / Limieten      | # Resultaten                                    | Export | Opmerkingen                                                          |                      |
-| --- | ---------- | -------- | --------------------------------------------- | ----------------------- | ----------------------------------------------- | ------ | -------------------------------------------------------------------- | -------------------- |
-| Q1  | 2026-01-17 | Scopus   | MVQ Semantic interoperability & domain models | Zie [[Query]] §Scopus_2 | Subject areas: CS, IS; Language: EN; After 1999 | 294    | Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.ris | Initiële core search |
-|     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
-|     |            |          |                                               |                         |                                                 |        |                                                                      |                      |
+| ID  | Datum      | Databank | Query (samengevat)                            | Filters / Limieten        | # Resultaten                                    | Export | Opmerkingen                                                          |                      |
+| --- | ---------- | -------- | --------------------------------------------- | ------------------------- | ----------------------------------------------- | ------ | -------------------------------------------------------------------- | -------------------- |
+| Q1  | 2026-01-17 | Scopus   | MVQ Semantic interoperability & domain models | Zie [[Query]] §Scopus_2   | Subject areas: CS, IS; Language: EN; After 1999 | 294    | Scopus_2_export_Jan 17-2026_41e63747-9cf1-41ce-af9e-74beb9faf9d8.ris | Initiële core search |
+| Q2  | 2026-04-03 | OpenAlex | MVQ Semantic interoperability & domain models | Zie [[Query]] §OpenAlex_1 | Subject areas: CS, IS; Language: EN; After 1999 | 194    | OpenAlex_March_3RD_works-ris-cEX3cmooqmMmaj3eMhvmMb.ris              | Complementary Search |
+|     |            |          |                                               |                           |                                                 |        |                                                                      |                      |
 
 ## Kolomdefinities
 

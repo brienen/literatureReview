@@ -1,8 +1,41 @@
 ---
-title: "Queries – Scopus, Web of Science, Google Scholar"
+title: "Queries – Scopus, Web of Science, Google Scholar en OpenAlex"
 description: "Eén samengestelde zoekquery per bibliotheek (Scopus, Web of Science, Google Scholar) voor literatuur over het combineren van (semantische) domeinmodellen over domeinen heen en interoperabiliteit in de publieke sector."
 created: 2026-01-15
 ---
+
+## OpenAlex Queries
+
+### OpenAlex_1
+```
+("semantic interoperability" 
+ OR "semantic interoperab*" 
+ OR "semantic integration" 
+ OR "semantic alignment" 
+ OR "semantic web interoperability"
+ OR "cross-domain" 
+ OR "cross domain" 
+ OR "multi-domain" 
+ OR "multi domain")
+AND
+(ontolog* 
+ OR "information model" 
+ OR "domain model" 
+ OR "data model" 
+ OR "semantic infrastructure" 
+ OR thesaur* 
+ OR taxonom* 
+ OR "controlled vocabulary")
+AND
+("public sector" 
+ OR "public administration" 
+ OR government 
+ OR "e-government" 
+ OR egov* 
+ OR "open government data" 
+ OR "public service" 
+ OR "european union")
+```
 
 ## Scopus queries
 

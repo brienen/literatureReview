@@ -1,0 +1,870 @@
+1.
+TY  - THES
+N1  - ASReview_relevant
+N1  - asreview_group_id: 23
+N1  - asreview_time: "2026-04-10 17:07:45"
+TI  - Spatial ontologies for architectural heritage
+AU  - Francesca, Noardo
+AB  - Informatics and artificial intelligence have generated new requirements for digital archiving, information, and documentation. Semantic interoperability has become fundamental for the management and sharing of information. The constraints to data interpretation enable both database interoperability, for data and schemas sharing and reuse, and information retrieval in large datasets. Another challenging issue is the exploitation of automated reasoning possibilities. The solution is the use of domain ontologies as a reference for data modelling in information systems. The architectural heritage (AH) domain is considered in this thesis. The documentation in this field, particularly complex and multifaceted, is well-known to be critical for the preservation, knowledge, and promotion of the monuments. For these reasons, digital inventories, also exploiting standards and new semantic technologies, are developed by international organisations (Getty Institute, ONU, European Union). Geometric and geographic information is essential part of a monument. It is composed by a number of aspects (spatial, topological, and mereological relations; accuracy; multi-scale representation; time; etc.). Currently, geomatics permits the obtaining of very accurate and dense 3D models (possibly enriched with textures) and derived products, in both raster and vector format. Many standards were published for the geographic field or in the cultural heritage domain. However, the first ones are limited in the foreseen representation scales (the maximum is achieved by OGC CityGML), and the semantic values do not consider the full semantic richness of AH. The second ones (especially the core ontology CIDOC - CRM, the Conceptual Reference Model of the Documentation Commettee of the International Council of Museums) were employed to document museums' objects. Even if it was recently extended to standing buildings and a spatial extension was included, the integration of complex 3D models has not yet been achieved. In this thesis, the aspects (especially spatial issues) to consider in the documentation of monuments are analysed. In the light of them, the OGC CityGML is extended for the management of AH complexity. An approach ‘from the landscape to the detail' is used, for considering the monument in a wider system, which is essential for analysis and reasoning about such complex objects. An implementation test is conducted on a case study, preferring open source applications
+DA  - 2016/01/01/
+PY  - 2016
+DO  - 10.6092/polito/porto/2644378
+LA  - en
+UR  - https://doi.org/10.6092/polito/porto/2644378
+L1  - https://iris.polito.it/bitstream/11583/2644378/1/SpatialOntologiesAH_complete_last.pdf
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Data mining
+KW  - Information retrieval
+KW  - Cultural heritage
+KW  - Visualization
+KW  - Computer science
+KW  - Remote sensing
+KW  - World Wide Web
+KW  - Data science
+KW  - Documentation
+KW  - Domain (mathematical analysis)
+KW  - Geography
+KW  - Geospatial analysis
+KW  - Archaeology
+KW  - CityGML
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+2.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 34
+N1  - asreview_time: "2026-04-10 17:12:48"
+TI  - The EU Services Directive - Reusing Existing Resources In Public Sector Interoperability
+AU  - Fahl-Spiewack, Renke
+AU  - Krämer, Horst
+T2  - Journal of the Association for Information Systems
+AB  - The paper presents a case study of an ongoing implementation project in the framework of the European Union Services Directive. In the German federal state of Brandenburg, authorities are preparing a common taxonomy of professions and industries for general use and in particular for business registration. It is a measure for the creation of a point of single contact as required in the Services Directive. Existing code lists and taxonomies are used as "semantic interoperability assets" and consolidated for the new purpose with the help of the Semantic Interoperability Centre Europe SEMIC.EU). The unique contribution of the strategy chosen in the case is the combination of real-life feasibility and the instant creation of interoperability through semantic harmonization with an existing 20-language catalogue and an established classification of business activities.
+DA  - 2009/01/01/
+PY  - 2009
+SP  - 130
+LA  - en
+SN  - 1536-9323
+KW  - Interoperability
+KW  - European union
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Reuse
+KW  - Computer science
+KW  - World Wide Web
+KW  - International trade
+KW  - Business
+KW  - Harmonization
+KW  - Engineering
+KW  - Directive
+KW  - German
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Association for Information Systems
+ER  - 
+
+3.
+TY  - THES
+N1  - ASReview_relevant
+N1  - asreview_group_id: 59
+N1  - asreview_time: "2026-04-10 17:14:11"
+TI  - Semantic enrichment and exploratory search of spatiotemporal data
+AU  - Ronzhin, Stanislav
+AB  - The current practice of data dissemination via data portals exhibits scalability limitations. Technically, the use of keywords and themes for the description of data semantics cannot keep up with the growing number and topical diversity of published datasets. At the same time, the publish-find-bind model of data dissemination decouples data discovery from data access which makes it increasingly difficult to find data that can be (re)used in combination with other data for the construction of tailored data products. However, data application developers increasingly need to see all the data not only from one provider but also from several providers as a whole in runtime.<br/><br/>In this context, Linked Data (LD) as a technique for publishing structured semantically rich data on the Web is able to open up the data silos of the traditional data portals. Being based on well-known Web technologies (such as HTTP), interoperable semantic standards and graph data model, LD makes it possible to perform data discovery, access and integration in one step. Apart from that, LD creates a Web-scale semantic infrastructure that enables interoperability not only between separate databases but also between organisations.<br/><br/>However, converting existing datasets into LD as is does not allow the realisation of these properties. In fact, original data sources were created with the closed world assumption in mind and, therefore, lacked connections between each other and the existing semantic infrastructure. For this reason, the realisation ofLDadvantages requires data to be semantically enriched, which is a knowledge and labour-demanding task. Additionally, data providers meet an organizational challenge. Investment in semantic enrichment (SE) of provider data to leverage LD requires evaluation of benefits that are difficult to quantify. A common and well-understood approach of use-case-driven development is too narrow to cover all business requirements and, therefore, is not adequate to demonstrate the added value of LD.<br/><br/>Instead, this thesis proposes enabling exploratory search (ES) of data as an integrated approach towards developing LD in an organisation. This proposition is supported by two major research contributions presented in this work, namely (1) a business rationale for LD implementation and (2) technical requirements of SE instantiated by a number of developed data and software artefacts.<br/><br/>Technical requirements of SE are framed as four data enrichment levels: (1) ontological, (2) conceptual, (3) instantial and (4) literal. Semantic enrichment design principles for each of these levels are created based on the analysis of the data-related requirements and functional limitations of existing ES systems. The analysed systems are grouped into nine categories according to the exploratory techniques they facilitate. This makes it possible to abstract from particular implementations and formulate requirements for each of the categories. <br/><br/>The business rationale for LD implementation is based on the analysis of the roles that LD plays in the realisation of a business vision of a large public data provider. Deriving from the experience of the development of a data platform at the Netherlands’ Cadastre Land Registry and Mapping Agency (Kadaster), it is concluded that LD directly contributes to the operationalisation of three out of four business ambitions, namely, (1) enabling a use-case oriented vision, (2) increasing the data value, and (3) ensuring the certainty of the data and legitimacy of the organization. The remaining ambition of being a spatial data provider can be fulfilled by conventional technologies, however, LD indirectly contributes to reaching users outside of the GIS community. These findings are used to prioritise the previously identified technical requirements of SE to achieve alignment with the business vision. As a result of this prioritisation, two semantic enrichment scenarios that combine design principles into two groups according to their advancement level are formulated, implemented, and evaluated. The driving reason for the division of scenarios is to differentiate design principles that are easy to implement but that lead to high gains in terms of ES (the first scenario) from those that require greater efforts but at the same time lead to maximum possible results (the second scenario).<br/><br/>The first scenario focuses on ES-enabling semantic enrichment of datasets that have thematically similar content but are curated by several independent data providers. The design principles covered in the first scenario allow to create and disseminate LD representation of existing data on top of existing spatial data infrastructures (SDIs) without altering already implemented data pipelines and structures. They are put to test during the development of the Open European Location Services (OpenELS) project, a collaborative effort aimed at the construction of European-level SDI for the provision of geospatial data within the Spatial Information in the Europe Community (INSPIRE) initiative.<br/><br/>The second scenario, in contrast, covers the creation of explorable Knowledge Graphs, voluminous data sources that combine datasets with a wide range of topics from a multitude of knowledge domains. Apart from the topical diversity, the design principles of this scenario also cater for a large volume of spatio-temporal data by utilising topological relations for the creation of hierarchical spatial partitioning. Construction of the Kadaster Knowledge Graph (KKG) by combining 12 datasets curated by 8 organisations represented the evaluation of the second scenario design principles. The usability of the graph was assessed during the creation of three applications, namely data browsing, urban planning, and the development of a chatbot.<br/><br/>There are several important characteristics of the research that influence the applicability of research contributions. The first limitation stems from the fact that a major part of the research is conducted in a governmental institution, namely Kadaster. Therefore, for for-profit organisations, the business rationale for LD implementation has relevance in parts related to revenue-focused business ambitions such as use case orientedness and data value increase. Another limitation is that the rationale is based on qualitative reasoning which implies that it does not provide an understanding of how much resources implementation of LD can take. For the data and software artefacts created as a part of this research, it is important to emphasise that their evaluation is based on providing semantic enrichment and exploratory search capabilities and does not include usability testing. However, in this respect, the design principles of both scenarios were discussed within a large group of specialists involved in their implementation, then taken into use within their organisations, and considered applicable and useful.<br/><br/>The approach presented in this thesis is thought to be beneficial for the following application domains and target groups. First of all, the research contributes to the topics of data dissemination and data- and semantic- infrastructure development. Therefore, it is of interest to data owners, data custodians and data providers including but not limited to National Mapping and Cartographic Agencies (NMCAs), since the research is greatly concerned with the utilisation of spatial and temporal data components for linking and consolidating data assets into one virtual data source. This can be particularly appealing for data scientists and engineers who are confronted with tailored data product development as well as application developers who work with heterogeneous cross-domain data to create novel applications. From the viewpoint of software development companies, this work can be considered as a blueprint for semantic enrichment scenarios to be supported by data management tools, and as such, it can help in foreseeing market demands in terms of functional requirements. Apart from that, the research findings add to the business rationalisation of semantic enrichment in organisations. Therefore, managers who are responsible for data desilofication strategies and business developers who are concerned with the development and operationalisation of the business vision are among the target groups of this work. Exploratory search over big and distributed data is another application domain of the thesis, therefore the analysis of ES system requirements towards data quality is of particular interest to the community of ES<br/>researchers and software developers. Finally, elaboration on the topics of Knowledge Graphs development presented in this work contributes to the ongoing discussion in the Semantic Web and Linked Data communities and therefore, is of interest to them.
+DA  - 2023/05/08/
+PY  - 2023
+DO  - 10.3990/1.9789036556187
+LA  - en
+UR  - https://doi.org/10.3990/1.9789036556187
+L1  - https://ris.utwente.nl/ws/files/304435731/ronzhin.pdf
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Metadata
+KW  - Semantic data model
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Linked data
+KW  - Data discovery
+KW  - Open data
+KW  - Computer science
+KW  - Data modeling
+KW  - World Wide Web
+KW  - Data science
+KW  - Context (archaeology)
+KW  - Database
+KW  - Data management
+KW  - Publication
+KW  - Scalability
+KW  - Data access
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+4.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 36
+N1  - asreview_time: "2026-04-10 17:16:35"
+TI  - Artificial Intelligence for Interoperability in the European Public Sector
+AU  - Luca, TANGI
+AU  - Marco, COMBETTO
+AU  - Jaume, MARTIN
+AU  - Paula, RODRIGUEZ
+T2  - RePEc: Research Papers in Economics
+DA  - 0000///None
+PY  - 0000
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantic interoperability
+KW  - Public sector
+KW  - Context (archaeology)
+KW  - Set (abstract data type)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Federal Reserve Bank of St. Louis
+ER  - 
+
+5.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 58
+N1  - asreview_time: "2026-04-10 17:16:52"
+TI  - Towards the linking of geospatial government data: A study on the semantic harmonisation between data from Dutch geo-registries
+AU  - Wiersma, G.
+T2  - Research Repository (Delft University of Technology)
+AB  - The growing complexity of many projects and applications require methods that help integrate vasts amounts of data coming from different sources. In all cases, semantic interoperability plays an important role - the meaning of content should be organized logically, as to allow machines to interpret it. The Semantic Web vision has been developing standards to support this idea, with the goal of creating a 'web of data', were pieces information can be accessed and linked to one another consistently. The ideas behind Linked Data have been explored in different areas of study. The geospatial domain presents an interesting challenge, as geospatial data offers many different views on the same physical universe. This is especially the case with geo-registries - collections of official geospatial data used by governments. This data already contains links in the form of spatial relations. However, there is no consensus on how these links should take form. Thus, this research will explore how linkable geospatial data from registries actually is by answering the following question:"To what extent can ontology-based solutions using semantic web technologies contribute to the integration and use of data from geo-spatial registries?". This question is broken down in three sub-questions that address ontology-based integration techniques (including tools and languages), the impact of dataset characteristics and the added value of semantic relations. The research includes a literature study to provide a theoretical background, a case study of two Dutch geo-registries (Basisregistratie Grootschalige Topografie and Basisregistrie Topografie) and a conceptual framework that is applied to the case study as a way to explore the main question. The results of this framework reinforce the importance of using instance-level data to understand the connections between different conceptual models and show the unavoidable subjectivity that is involved in the process - from the conceptualization of the data (model) to the creation of query rules. The findings indicate that the capabilities of ontology languages (such as OWL) are not necessarily practical for data from registries, and that custom processes might be necessary depending on the application envisioned by data users. Country-wide registries managed by different data owners and different interpretations of data acquisition rules will lead to inevitable variations in the registration of objects in datasets. And more efforts could be invested in providing quality indicators for alignments.
+DA  - 2020/01/01/
+PY  - 2020
+LA  - en
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Linked data
+KW  - Spatial data infrastructure
+KW  - Computer science
+KW  - World Wide Web
+KW  - Spatial analysis
+KW  - Data science
+KW  - Geography
+KW  - Geospatial analysis
+KW  - Geospatial PDF
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Delft University of Technology
+ER  - 
+
+6.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 14
+N1  - asreview_time: "2026-04-10 17:17:40"
+TI  - Bibliographic standards and Linked Data. Towards a collaboration between cultural and commercial sectors
+AU  - Martini, Patrizia
+T2  - Università di Firenze - Italian Journal of Library and Information Science
+AB  - The new scenarios that are arising in the world of the web of data, with the adoption on the part of private and public institutions of new technology for the interlinking of structured data, such as the linked data model, highlights the great potential and possible development of this instrument in the library world.Giving an identity to data -whether open or not -in order to make them interlinkable and interoperable, and establishing links between objects that can be related to each other, aggregated, and reused, means creating added value for data management and, most of all, offering a new service for the citizenry.Thanks to the actions of the Digital Agenda for Europe, 1 the Guidelines for semantic interoperability through linked open data 2 were published.They provide a reference framework for the production of open data that is interoperable between public administrations, thus making data management in the public sector accessible and transparent.In the library sector, relationships with all
+DA  - 2013/01/15/
+PY  - 2013
+LA  - en
+KW  - Knowledge management
+KW  - Computer science
+KW  - Business
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+7.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 9
+N1  - asreview_time: "2026-04-10 17:18:27"
+TI  - Towards a Semantic Interoperability in an e‑Government Application
+AU  - Bettahar, Fathia
+AU  - Moulin, Claude
+AU  - Barthes, Angéla
+T2  - Electronic Journal of e-Government
+AB  - Research issues have emerged from the rapid introduction of new technologies in government services in order to deliver efficient and cost effective services, information and knowledge through information and communication technologies. However, the complexity of government services and the diversity of actors involved in the processes make the access to the right information difficult and pose several problems. Some problems are linked to the way of presenting and accessing information. Other problems are linked to interoperability among applications and processes of eGovernment services. The objective of the European TerreGov project is to find a solution to such problems. The project focuses on the semantic requirements of governments at local, intermediate and regional levels, needed to build flexible and interoperable tools to support the change towards eGovernment services. We propose, within this project, an ontology to present knowledge and to achieve the required level of semantic interoperability. We use the ontology to describe the domain knowledge of the organization and to index the resources from which civil servants may receive information. The key point of the system is a unique and multimodal ontology used simultaneously for describing domain knowledge, for adding semantics to agency services, for indexing various documents in knowledge bases used by civil servants and finally for supporting the interaction between the users and the system. We present in this paper the challenges of using ontology in eGovernment environments, such as the lack of expressivity of the formalism chosen for interoperability in the project and the risk of inconsistency when the ontology changes. We propose our solution to such challenges and we demonstrate the use of the ontology by the module in charge of managing complex tasks in the system.
+DA  - 2009/11/01/
+PY  - 2009
+VL  - 7
+IS  - 3
+LA  - en
+SN  - 1479-439X
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Computer science
+KW  - World Wide Web
+KW  - Domain knowledge
+KW  - Upper ontology
+KW  - Search engine indexing
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Academic Conferences and Publishing International
+ER  - 
+
+8.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 0
+N1  - asreview_time: "2026-04-10 17:19:46"
+TI  - A Fuzzy Ontology-Driven Approach to Semantic Interoperability in e-Government Big Data
+AU  - Corrêa, Andreiwid
+AU  - Borba, Cleverton
+AU  - da Silva, Flávio
+AU  - Corrêa, Pedro
+T2  - International Journal of Social Science and Humanity
+AB  - With the increasing production of information from e-government initiatives, there is also the need to transform a large volume of unstructured data into useful information for society. All this information should be easily accessible and made available in a meaningful and effective way in order to achieve semantic interoperability in electronic government services, which is a challenge to be pursued by governments round the world. Our aim is to discuss the context of e-Government Big Data and to present a framework to promote semantic interoperability through automatic generation of ontologies from unstructured information found in the Internet. We propose the use of fuzzy mechanisms to deal with natural language terms and present some related works found in this area. The results achieved in this study are based on the architectural definition and major components and requirements in order to compose the proposed framework. With this, it is possible to take advantage of the large volume of information generated from e-Government initiatives and use it to benefit society
+DA  - 2014/01/28/
+PY  - 2014
+DO  - 10.7763/ijssh.2015.v5.448
+VL  - 5
+IS  - 2
+SP  - 178
+EP  - 181
+LA  - en
+SN  - 2010-3646
+UR  - https://doi.org/10.7763/ijssh.2015.v5.448
+L1  - https://www.ijssh.org/papers/448-J00015.pdf
+KW  - Linguistics
+KW  - Interoperability
+KW  - Ontology
+KW  - Data mining
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Artificial intelligence
+KW  - Big data
+KW  - Computer science
+KW  - World Wide Web
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Epistemology
+KW  - Fuzzy logic
+KW  - Philosophy
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+9.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 6
+N1  - asreview_time: "2026-04-10 17:23:45"
+TI  - Semantic-Driven e-Government: Application of Uschold and King Ontology Building Methodology for Semantic Ontology Models Development
+AU  - Dombeu, Jean
+AU  - Huisman, Magda
+T2  - International journal of Web & Semantic Technology
+AB  - Electronic government (e-government) has been one of the most active areas of ontology development during the past six years. In e-government, ontologies are being used to describe and specify e-government services (e-services) because they enable easy composition, matching, mapping and merging of various egovernment services. More importantly, they also facilitate the semantic integration and interoperability of e-government services. However, it is still unclear in the current literature how an existing ontology building methodology can be applied to develop semantic ontology models in a government service domain. In this paper the Uschold and King ontology building methodology is applied to develop semantic ontology models in a government service domain. Firstly, the Uschold and King methodology is presented, discussed and applied to build a government domain ontology. Secondly, the domain ontology is evaluated for semantic consistency using its semi-formal representation in Description Logic. Thirdly, an alignment of the domain ontology with the Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE) upper level ontology is drawn to allow its wider visibility and facilitate its integration with existing metadata standard. Finally, the domain ontology is formally written in Web Ontology Language (OWL) to enable its automatic processing by computers. The study aims to provide direction for the application of existing ontology building methodologies in the Semantic Web development processes of e-government domain specific ontology models; which would enable their repeatability in other e-government projects and strengthen the adoption of semantic technologies in e-government. The research would be of interest to e-government system developers as well as the Semantic Web community, as the framework and techniques employed to develop the semantic ontology models might be repeated in other domains of knowledge to build ontologies.
+DA  - 2011/10/30/
+PY  - 2011
+DO  - 10.5121/ijwest.2011.2401
+VL  - 2
+IS  - 4
+SP  - 111
+EP  - 20
+LA  - en
+SN  - 0975-9026
+UR  - https://doi.org/10.5121/ijwest.2011.2401
+L1  - https://www.airccse.org/journal/ijwest/papers/2411ijwest01.pdf
+KW  - Semantic Web
+KW  - Ontology
+KW  - Ontology alignment
+KW  - OWL-S
+KW  - Ontology-based data integration
+KW  - Upper ontology
+KW  - Process ontology
+KW  - Ontology Inference Layer
+KW  - Suggested Upper Merged Ontology
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+10.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 30
+N1  - asreview_time: "2026-04-10 17:25:38"
+TI  - Ontology Development for Asset Concealment Investigation: A Methodological Approach and Case Study in Asset Recovery
+AU  - Torres, José
+AU  - da Silva, Daniel
+AU  - de Oliveira Albuquerque, Robson
+AU  - Nze, Georges
+AU  - Orozco, Ana
+AU  - Villalba, Luis
+T2  - Applied Sciences
+AB  - The concealment of assets is a critical challenge in financial fraud and asset recovery investigations, posing significant obstacles for creditors and regulatory authorities. National governments commonly possess the necessary data for detecting and combating this type of fraud, typically related to personal data and asset ownership. However, this information is often dispersed across different departments within the same government and sometimes in databases shared by other countries. This leads to difficulty semantically integrating this large amount of data in various formats and correlating entities through identifying hidden relationships, which are essential in this type of analysis. In this regard, this work proposes an ontology to support the data integration process in the domain of asset concealment and recovery and fill the gap in the existence of a public ontology for this domain. The applicability of this ontology in the context of integration between data from different departments and countries was validated. The use of the ontology in a pilot project in the context of a tool for investigating this type of fraud was conducted with a Brazilian government agency, and the users validated its applicability. Finally, a new method for constructing ontologies is proposed. The proposed process was evaluated during the asset concealment ontology building and proved to be more suitable than the similar processes analyzed concerning the partial reuse of existing ontologies and the construction of ontologies for data with a transnational scope.
+DA  - 2024/10/22/
+PY  - 2024
+DO  - 10.3390/app14219654
+VL  - 14
+IS  - 21
+SP  - 9654
+EP  - 9654
+LA  - en
+SN  - 2076-3417
+UR  - https://doi.org/10.3390/app14219654
+L1  - https://www.mdpi.com/2076-3417/14/21/9654/pdf?version=1729667123
+KW  - Ontology
+KW  - Computer science
+KW  - Business
+KW  - Computer security
+KW  - Epistemology
+KW  - Philosophy
+KW  - Asset (computer security)
+KW  - Risk analysis (engineering)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Multidisciplinary Digital Publishing Institute
+ER  - 
+
+11.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 33
+N1  - asreview_time: "2026-04-10 17:26:30"
+TI  - Semantic Interoperability Middleware – Enabling collaborative networks in public sector
+AU  - Sánchez, Alejandro
+AU  - Estévez, Elsa
+AU  - Janowski, Tomasz
+AU  - Ojo, Adegboyega
+T2  - El Servicio de Difusión de la Creación Intelectual (National University of La Plata)
+AB  - Electronic Government initiatives, such as seamless public services delivered at one-stop government portals, require establishing collaborative networks among public- and private-sector organizations. However, semantic interoperability problems emerge as these organizations may differ in the terms and meanings they use to communicate, express their needs and describe resources they make available to each other. This paper describes typical semantic interoperability problems and presents a middleware solution to address them, called Semantic Interoperability Middleware (SIM). The paper illustrates the problems through three case studies in a collaborative network for the delivery of welfare benefits. Subsequently, the requirements for SIM are presented, and the architecture and design of the solution are specified using UML. SIM assumes organizations have agreed on ontologies that reflect the meaning of terms they use in communicating. It comprises three services: Mediation – resolves differences in terms and meaning; Validation – detects inconsistent terms and meaning; and Discovery – mediates and matches need with resource descriptions. Finally, the case studies are resolved applying SIM.
+DA  - 2008/01/01/
+PY  - 2008
+LA  - es
+KW  - Interoperability
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Computer science
+KW  - World Wide Web
+KW  - Government (linguistics)
+KW  - Political science
+KW  - Law
+KW  - Mediation
+KW  - Distributed computing
+KW  - Meaning (existential)
+KW  - Middleware (distributed applications)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Universidad Nacional de La Plata
+ER  - 
+
+12.
+TY  - THES
+N1  - ASReview_relevant
+N1  - asreview_group_id: 11
+N1  - asreview_time: "2026-04-10 17:27:08"
+TI  - Memetic algorithms for ontology alignment
+AU  - Vitiello, Autilia
+AB  - Semantic interoperability represents the capability of two or more systems to meaningfully and accurately interpret the exchanged data so as to produce useful results. It is an essential feature of all distributed and open knowledge based systems designed for both e-government and private businesses, since it enables machine interpretation, inferencing and computable logic. Unfortunately, the task of achieving semantic interoperability is very difficult because it requires that the meanings of any data must be specified in an appropriate detail in order to resolve any potential ambiguity. Currently, the best technology recognized for achieving such level of precision in specification of meaning is represented by ontologies. According to the most frequently referenced definition, an ontology is an explicit specification of a conceptualization, i.e., the formal specification of the objects, concepts, and other entities that are presumed to exist in some area of interest and the relationships that hold them. However, different tasks or different points of view lead ontology designers to produce different conceptualizations of the same domain of interest. This means that the subjectivity of the ontology modeling results in the creation of heterogeneous ontologies characterized by terminological and conceptual discrepancies. Examples of these discrepancies are the use of different words to name the same concept, the use of the same word to name different concepts, the creation of hierarchies for a specific domain region with different levels of detail and so on. The arising so-called semantic heterogeneity problem represents, in turn, an obstacle for achieving semantic interoperability... [edited by Author]
+DA  - 2013/04/24/
+PY  - 2013
+DO  - 10.14273/unisa-45
+LA  - en
+UR  - https://doi.org/10.14273/unisa-45
+L1  - https://www.iris.unisa.it/bitstream/11386/4923653/1/tesi_di_dottorato_A_Vitiello.pdf
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantic heterogeneity
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Artificial intelligence
+KW  - Formal ontology
+KW  - Ontology alignment
+KW  - Computer science
+KW  - World Wide Web
+KW  - Ontology-based data integration
+KW  - Upper ontology
+KW  - Programming language
+KW  - Domain (mathematical analysis)
+KW  - Mathematics
+KW  - Ambiguity
+KW  - Conceptualization
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+13.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 2
+N1  - asreview_time: "2026-04-10 17:28:30"
+TI  - Km4City ontology building vs data harvesting and cleaning for smart-city services
+AU  - Bellini, Pierfrancesco
+AU  - Benigni, Monica
+AU  - Billero, Riccardo
+AU  - Nesi, Paolo
+AU  - Rauch, Nadia
+T2  - Journal of Visual Languages & Computing
+AB  - Presently, a very large number of public and private data sets are available from local governments. In most cases, they are not semantically interoperable and a huge human effort would be needed to create integrated ontologies and knowledge base for smart city. Smart City ontology is not yet standardized, and a lot of research work is needed to identify models that can easily support the data reconciliation, the management of the complexity, to allow the data reasoning. In this paper, a system for data ingestion and reconciliation of smart cities related aspects as road graph, services available on the roads, traffic sensors etc., is proposed. The system allows managing a big data volume of data coming from a variety of sources considering both static and dynamic data. These data are mapped to a smart-city ontology, called KM4City (Knowledge Model for City), and stored into an RDF-Store where they are available for applications via SPARQL queries to provide new services to the users via specific applications of public administration and enterprises. The paper presents the process adopted to produce the ontology and the big data architecture for the knowledge base feeding on the basis of open and private data, and the mechanisms adopted for the data verification, reconciliation and validation. Some examples about the possible usage of the coherent big data knowledge base produced are also offered and are accessible from the RDF-store and related services. The article also presented the work performed about reconciliation algorithms and their comparative assessment and selection.
+DA  - 2014/10/30/
+PY  - 2014
+DO  - 10.1016/j.jvlc.2014.10.023
+VL  - 25
+IS  - 6
+SP  - 827
+EP  - 839
+LA  - en
+SN  - 1045-926X
+UR  - https://doi.org/10.1016/j.jvlc.2014.10.023
+L1  - https://arxiv.org/pdf/1508.01083
+KW  - Interoperability
+KW  - Ontology
+KW  - SPARQL
+KW  - Linked data
+KW  - RDF
+KW  - Big data
+KW  - Knowledge base
+KW  - Process (computing)
+KW  - Variety (cybernetics)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Elsevier BV
+ER  - 
+
+14.
+TY  - THES
+N1  - ASReview_relevant
+N1  - asreview_group_id: 24
+N1  - asreview_time: "2026-04-10 17:33:25"
+TI  - Real-time Multi-scale Smart Energy Management and Optimisation (REMO) for buildings and their district
+AU  - Jayan, Bejay
+AB  - Energy management systems in buildings and their district today use automation systems and artificial intelligence (AI) solutions for smart energy management, but they fail to achieve the desired results due to the lack of holistic and optimised decision-making. A reason for this is the silo-oriented approach to the decision-making failing to consider cross-domain data. Ontologies, as a new way of processing domain knowledge, have been increasingly applied to different domains using formal and explicit knowledge representation to conduct smart decision-making. In this PhD research, Real-time Multiscale Smart Energy Management and Optimisation (REMO) ontology was developed, as a cross-domain knowledge-base, which consequently can be used to support holistic real-time energy management in districts considering both demand and supply side optimisation. The ontology here, is also presented as the core of a proposed framework which facilitates the running of AI solutions and automation systems, aiming to minimise energy use, emissions, and costs, while maintaining comfort for users. The state of the art AI solutions for prediction and optimisation were concluded through authors involvement in European Union research projects. The AI techniques were independently validated through action research and achieved about 30 - 40 % reduction in energy demand of the buildings, and 36% reduction in carbon emissions through optimisation of the generation mix in the district.&#13;\nThe research here also concludes a smart way to capture the generic knowledge behind AI models in ontologies through rule axiom features, which also meant this knowledge can be used to replicate these AI models in future sites. Both semantic and syntactic validation were performed on the ontology before demonstrating how the ontology supports the various use cases of the framework for holistic energy management. Further development of the framework is recommended for the future which is needed for it to facilitate real-time energy management and optimisation in buildings and their district.
+DA  - 2016/01/01/
+PY  - 2016
+LA  - en
+KW  - Ontology
+KW  - Automation
+KW  - Artificial intelligence
+KW  - Smart grid
+KW  - Computer science
+KW  - Decision support system
+KW  - Knowledge base
+KW  - Domain knowledge
+KW  - Data science
+KW  - Domain (mathematical analysis)
+KW  - Engineering
+KW  - Energy (signal processing)
+KW  - Energy management
+KW  - Operations research
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Cardiff University
+ER  - 
+
+15.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 27
+N1  - asreview_time: "2026-04-10 17:44:50"
+TI  - Open Innovation in Drug Discovery
+AU  - Ecker, Gerhard
+AU  - Williams-Jones, Bryn
+T2  - Molecular Informatics
+AB  - Open innovation is considered a promising strategy by which pharmaceutical industry may overcome the current crisis caused by declining productivity and decreasing numbers of NCEs.1 As drug discovery is a data-driven process, the amount and diversity of drug discovery data in the omics and high-throughput driven paradigms have significantly grown to the point where standard relational data models reach their performance limits both in terms of technical and scientific capabilities. In addition to the need for integrating this vast amount of data, which is spread over hundreds of public and private data bases,2 it is recognized that providing capabilities for semantic inference is a key challenge and offers a wealth of opportunities. However, data organization, integration and management are far from being trivial. One of the key challenges is that current data sources are largely incompatible with massive computational approaches and the vast majority of drug-discovery sources cannot easily interoperate. Recently developed data and text mining approaches, improved data capture standards, and leveraging semantic web technology open a first-time-opportunity to achieve interoperability through the semantic harmonization of data in key data sources.3 One of the pioneering semantic molecular information systems was developed by David Wild and his group at Indiana University with the Chem2Bio2RDF system.4 Recognizing the challenges for knowledge management and data mining in the new century, the EU (European Union) and EFPIA (European Federation of Pharmaceutical Industry and Associations) founded the IMI (Innovative Medicines Initiative) Joint Undertaking, a public private partnership devoted to target current bottlenecks in drug discovery and development, thereby focusing on precompetitive areas.5,6,7 One of the projects funded is Open PHACTS (Open PhArmacological Concepts Triple Store), which brings together 28 academic and pharmaceutical partners to design and implement an open source, open standards and open access innovation platform, the Open Pharmacological Space (OPS), via a semantic web approach.8 OPS will comprise data, vocabularies and infrastructure needed to accelerate pharmaceutical research. A key feature of the OPS is the openness for new data additions which could include data from text mining of scientific publications as well as opportunities for integration with proprietary or commercial data sources.9 Another key aspect is the development of novel visualization and data analysis tools that facilitate the navigation and knowledge extraction from all the integrated data. With this special issue, we want to highlight some of the major challenges and opportunities linked to open innovation concepts. In her review, Zdrazil and colleagues provide an overview on the strengths and limitations of open innovation with a special focus on small molecules. Stierand et al., Eriksson et al., as well as Carrascosa et al. present new, innovative tools for visualizing and mining the huge amount of data available by semantic integration of public data bases, such as provided by the Open PHACTS platform. Ekins and colleagues, as well as Clark et al., present future approaches and tools for connecting mobile devices to large open data depositories. In her article, Pinto and colleagues show the utilization of public available data for creation of in silico classification models for substrates for an ABC-transporter. Finally, as proper usage of public data for drug discovery can only be assured by a thorough investigation of data quality and integrity, Zdrazil et al. provide an analysis of the data available in ChEMBL for inhibitors of the Multidrug Resistance Protein 1 (P-glycoprotein). All articles are available as open access at www.molinf.com, thanks to financial support from Open PHACTS and Wiley-VCH. With this special issue on Open Innovation we would like to lay the ground for stimulating discussions and to encourage all our colleagues to submit their related work to Molecular Informatics.
+DA  - 2012/08/01/
+PY  - 2012
+DO  - 10.1002/minf.201280004
+VL  - 31
+IS  - 8
+SP  - 519
+EP  - 520
+LA  - en
+SN  - 1868-1743
+UR  - https://doi.org/10.1002/minf.201280004
+L1  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/minf.201280004
+KW  - Interoperability
+KW  - Semantic Web
+KW  - European union
+KW  - Metadata
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Data discovery
+KW  - Open data
+KW  - Computer science
+KW  - World Wide Web
+KW  - Business
+KW  - Data science
+KW  - Harmonization
+KW  - Drug discovery
+KW  - General partnership
+KW  - Open innovation
+KW  - Pharmaceutical industry
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Wiley
+ER  - 
+
+16.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 39
+N1  - asreview_time: "2026-04-10 17:55:41"
+TI  - D2.2: CVDLINK Full System Design [Abstract]
+AU  - Crucianu, Iacob
+AU  - Augustauskas, Rytis
+AU  - Parviainen, Anna
+AU  - Raptopoulos, Andreas
+AU  - Haidamous, Jad
+T2  - Zenodo (CERN European Organization for Nuclear Research)
+AB  - The following deliverable is currently under review by the European Commission and will be published in full once it is approved. Abstract: The current report describes the architecture design for CVDLINK platforms. The architecture was designed around a federative approach that addresses long-standing challenges in cardiovascular research, particularly related to data fragmentation, privacy, and interoperability. Recognising that patient data is often distributed across multiple institutions and jurisdictions, CVDLINK adopts a federated data model where data remains at its source, under the full control of its owner, while still enabling collaborative research and artificial intelligence (AI)-based tools experimentation across borders. The federated architecture is composed of a central coordinating node and multiple subordinate nodes, each equipped with its own local data processing, security, and AI components. The central node orchestrates communication, aggregates anonymized model updates, and provides shared services such as federated search, virtual dataset generation, and shared AI tool repositories. This layered architecture ensures scalability, resilience, and controlled participation - nodes can join, leave, or limit access to data at any time. Semantic interoperability is achieved through alignment with common data models (CDMs), such as OMOP and HL7 FHIR, while metadata and FAIR principles enable rich data discovery without exposing raw datasets. Federated nodes also support role-based access and auditing to ensure security and traceability across the data lifecycle. By combining federated learning, semantic harmonization, and secure orchestration, CVDLINK pioneers a new paradigm for large-scale, collaborative cardiovascular research. It empowers institutions to contribute to AI innovation without compromising autonomy, privacy, or clinical workflows, setting a benchmark for ethical and effective digital health infrastructure across Europe. -- Funded by the European Union. Views and opinions expressed are however those of the author(s)only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+DA  - 2025/06/30/
+PY  - 2025
+DO  - 10.5281/zenodo.18236071
+UR  - https://doi.org/10.5281/zenodo.18236071
+L1  - https://zenodo.org/records/18236071/files/D2.2%20Exec%20Summary.pdf
+KW  - Interoperability
+KW  - Metadata
+KW  - Architecture
+KW  - Access control
+KW  - Workflow
+KW  - Data modeling
+KW  - Traceability
+KW  - Data sharing
+KW  - Data access
+KW  - Node (physics)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - European Organization for Nuclear Research
+ER  - 
+
+17.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 61
+N1  - asreview_time: "2026-04-10 18:02:12"
+TI  - Learning-Based Semantic Alignment in Cross-Institution Health Data Exchange
+AU  - Surianarayanan, Gayathri
+T2  - International Journal of Global Innovations and Solutions (IJGIS)
+AB  - Healthcare ecosystems today are built upon the exchange of health data between multiple types of organizations, including provider organizations, payers, laboratories, public health agencies, and government programs. While syntactical standards, such as HL7 v2, FHIR, X12, and CDA have been widely adopted to enable the exchange of data electronically, the lack of consistent semantics across institutions continues to create barriers to the correct interpretation of data exchanged electronically, automated workflows and analytics. The variability in schema design, terminology use, contextual meaning, and workflow specific customization creates ambiguity in data exchanged electronically which cannot be eliminated by using rule based mapping techniques or static ontologies. In this paper we present a novel, learning-based semantic alignment framework for cross-institutional health data exchange which utilizes representation learning, contextual embeddings and probabilistic alignment scoring to align schematically disparate healthcare datasets. Our proposed approach consists of three main components; schema-level feature learning to extract common features from the source and target schemas, a context aware similarity model that measures the similarity between the two schemas, and an explainability driven validation process to ensure that the alignment decisions made are trusted and suitable for regulated environments. We also present a multilayer architecture to facilitate both semantic discovery, alignment confidence estimation, human-in-the-loop review and regulatory auditability. We evaluate our proposed approach on synthetic but realistic healthcare schemas developed from electronic health record (EHR) data, claims data and enrollment system data, and compare our approach with two baseline approaches; one that uses rules to align the two schematics and another that uses an ontology to align the two schematics. Finally, our proposed approach includes governance controls that meet all applicable requirements of HIPAA, CMS, and NIST AI Risk Management Framework (RMF).
+DA  - 2026/02/28/
+PY  - 2026
+DO  - 10.63412/688p6356
+VL  - 3
+IS  - 2
+SN  - 2998-2251
+UR  - https://doi.org/10.63412/688p6356
+L1  - https://ijgis.org/home/article/download/55/29
+KW  - Semantic heterogeneity
+KW  - Terminology
+KW  - Workflow
+KW  - Semantic integration
+KW  - Data exchange
+KW  - Context (archaeology)
+KW  - Semantics (computer science)
+KW  - Ambiguity
+KW  - Health information exchange
+KW  - Schema matching
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+18.
+TY  - CHAP
+N1  - ASReview_relevant
+N1  - asreview_group_id: 57
+N1  - asreview_time: "2026-04-10 18:09:28"
+TI  - Exploiting LLMs and Semantic Technologies to Build a Knowledge Graph of Historical Mining Data
+AU  - Knoblock, Craig
+AU  - Vũ, Bình
+AU  - Shbita, Basel
+AU  - Chiang, Yao‐Yi
+AU  - Krishna, Pedduri
+AU  - Lin, Xiaola
+AU  - Murić, Goran
+AU  - Pyo, Jiyoon
+AU  - Trejo-Sheu, Adriana
+AU  - Ye, Meng
+T2  - Lecture notes in computer science
+DA  - 2025/10/28/
+PY  - 2025
+DO  - 10.1007/978-3-032-09530-5_26
+SP  - 451
+EP  - 471
+LA  - en
+SN  - 0302-9743
+UR  - https://doi.org/10.1007/978-3-032-09530-5_26
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-032-09530-5_26.pdf
+KW  - Semantic Web
+KW  - Linked data
+KW  - Semantic technology
+KW  - Graph
+KW  - Set (abstract data type)
+KW  - Scalability
+KW  - Information extraction
+KW  - Knowledge extraction
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Springer Science+Business Media
+ER  - 
+
+19.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 5
+N1  - asreview_time: "2026-04-10 18:10:14"
+TI  - A conceptual model for semantically-based e-government portals
+AU  - Gugliotta, Alessio
+AU  - Cabral, Liliana
+AU  - Domingue, John
+AU  - Roberto, Vito
+T2  - Open Research Online (The Open University)
+DA  - 2005/01/01/
+PY  - 2005
+LA  - en
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Knowledge management
+KW  - Conceptual model
+KW  - Computer science
+KW  - World Wide Web
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Domain (mathematical analysis)
+KW  - Database
+KW  - Mathematics
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - The Open University
+ER  - 
+
+20.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 1
+N1  - asreview_time: "2026-04-10 18:11:42"
+TI  - Ontologies for semantically interoperable systems
+AU  - Obrst, Leo
+DA  - 2003/11/03/
+PY  - 2003
+DO  - 10.1145/956863.956932
+SP  - 366
+EP  - 369
+LA  - en
+UR  - https://doi.org/10.1145/956863.956932
+L1  - https://dl.acm.org/doi/pdf/10.1145/956863.956932?download=true
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Semantic integration
+KW  - Computer science
+KW  - World Wide Web
+KW  - Data science
+KW  - Programming language
+KW  - Semantic computing
+KW  - Semantics (computer science)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+21.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 21
+N1  - asreview_time: "2026-04-10 18:16:45"
+TI  - Semantic Integration: The Hawkeye Approach
+AU  - Heflin, Jeff
+AU  - Pan, Zhengxiang
+DA  - 2010/04/19/
+PY  - 2010
+DO  - 10.1002/9780470588222.ch11
+SP  - 199
+EP  - 227
+LA  - en
+UR  - https://doi.org/10.1002/9780470588222.ch11
+KW  - Semantic Web
+KW  - Ontology
+KW  - Information retrieval
+KW  - Semantic integration
+KW  - Vocabulary
+KW  - Computer science
+KW  - World Wide Web
+KW  - Knowledge base
+KW  - Programming language
+KW  - Social Semantic Web
+KW  - Semantic Web Stack
+KW  - Set (abstract data type)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+22.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 22
+N1  - asreview_time: "2026-04-10 18:17:45"
+TI  - A novel ontological approach to semantic interoperability between legacy air defence command and control systems
+AU  - Partridge, Chris
+AU  - Lambert, Mike
+AU  - Loneragan, Mike
+AU  - Mitchell, Andrew
+AU  - Garbacz, Paweł
+T2  - International Journal of Intelligent Defence Support Systems
+DA  - 2011/01/01/
+PY  - 2011
+DO  - 10.1504/ijidss.2011.043357
+VL  - 4
+IS  - 3
+SP  - 232
+EP  - 232
+LA  - en
+SN  - 1755-1587
+UR  - https://doi.org/10.1504/ijidss.2011.043357
+KW  - Interoperability
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Artificial intelligence
+KW  - Systems engineering
+KW  - Computer science
+KW  - Software engineering
+KW  - World Wide Web
+KW  - Computer security
+KW  - Engineering
+KW  - Telecommunications
+KW  - Command and control
+KW  - Control (management)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 
+
+23.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 3
+N1  - asreview_time: "2026-04-10 18:30:01"
+TI  - IEEE standard upper ontology: a progress report
+AU  - Pease, Adam
+AU  - Niles, Ian
+T2  - The Knowledge Engineering Review
+DA  - 2002/03/01/
+PY  - 2002
+DO  - 10.1017/s0269888902000395
+VL  - 17
+IS  - 1
+SP  - 65
+EP  - 70
+LA  - en
+SN  - 0269-8889
+UR  - https://doi.org/10.1017/s0269888902000395
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Computer science
+KW  - Software engineering
+KW  - World Wide Web
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Upper ontology
+KW  - Domain (mathematical analysis)
+KW  - Engineering
+KW  - Engineering management
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Cambridge University Press
+ER  - 
+
+24.
+TY  - CHAP
+N1  - ASReview_relevant
+N1  - asreview_group_id: 45
+N1  - asreview_time: "2026-04-10 18:32:36"
+TI  - Sadrusha: An Administrative Data Twin Framework for SDG-Aligned Decision Making
+AU  - Kulkarni, Apurva
+AU  - Patidar, Riya
+AU  - Srinivasa, S.
+T2  - Lecture notes in computer science
+DA  - 2026/01/01/
+PY  - 2026
+DO  - 10.1007/978-3-032-15134-6_25
+SP  - 338
+EP  - 347
+LA  - en
+SN  - 0302-9743
+UR  - https://doi.org/10.1007/978-3-032-15134-6_25
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-032-15134-6_25.pdf
+KW  - Sustainable development
+KW  - Open data
+KW  - Data modeling
+KW  - Decision support system
+KW  - Spatial analysis
+KW  - Government (linguistics)
+KW  - Geospatial analysis
+KW  - Construct (python library)
+KW  - Policy analysis
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - Springer Science+Business Media
+ER  - 
+
+25.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 15
+N1  - asreview_time: "2026-04-10 18:33:29"
+TI  - Domain Vocabulary Alignment using AML and LogMap
+AU  - Guimarães, João
+AU  - de Andrade, Morgana
+AU  - Baptista, Ana
+T2  - RDBCI Revista Digital de Biblioteconomia e Ciência da Informação
+AB  - Introduction: In the context of the Semantic Web, interoperability among heterogeneous ontologies is a challenge due to several factors, among which semantic ambiguity and redundancy stand out. To overcome these challenges, systems and algorithms are adopted to align different ontologies. In this study, it is understood that controlled vocabularies are a particular form of ontology. Objective: to obtain a vocabulary resulting from the alignment and fusion of the Vocabularies Scientific Domains and Scientific Areas of the Foundation for Science and Technology, -FCT, European Science Vocabulary -EuroSciVoc and United Nations Educational, Scientific and Cultural Organization -UNESCO nomenclature for fields of Science and Technology, in the Computing Sciences domain, tobe used in the IViSSEM project. Methodology: literature review on systems/algorithms for ontology alignment, using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses -PRISMA methodology; alignment of the three vocabularies; and validation of the resulting vocabulary by means of a Delphi study. Results: we proceeded to analyze the 25 ontology alignment systems and variants that participated in at least one track of the Ontology Alignment Evaluation Initiative competition between 2018 and 2019. From these systems, Agreement Maker Light and Log Map were selected to perform the alignment of the three vocabularies, making a cut to the area of Computer Science. Conclusion: The vocabulary was obtained from Agreement Maker Light for having presented a better performance. At the end, a vocabulary with 98 terms was obtained in the Computer Science domain to be adopted by the IViSSEM project. The alignment resulted from the vocabularies used by FCT (Portugal), with the one adopted by the European Union (EuroSciVoc) and another one from the domain of Science &amp; Technology (UNESCO). This result is beneficial to other universities and projects, as well as to FCT itself
+DA  - 2022/01/11/
+PY  - 2022
+DO  - 10.20396/rdbci.v20i00.8668437
+VL  - 20
+IS  - 2022
+SP  - 1
+EP  - 25
+LA  - en
+SN  - 1678-765X
+UR  - https://doi.org/10.20396/rdbci.v20i00.8668437
+L1  - https://periodicos.sbu.unicamp.br/ojs/index.php/rdbci/article/download/8668437/29602
+KW  - Linguistics
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Information retrieval
+KW  - Ontology alignment
+KW  - Vocabulary
+KW  - Computer science
+KW  - Controlled vocabulary
+KW  - World Wide Web
+KW  - Data science
+KW  - Upper ontology
+KW  - Context (archaeology)
+KW  - Domain (mathematical analysis)
+KW  - Natural language processing
+KW  - Mathematics
+KW  - Geography
+KW  - Ambiguity
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+PB  - University of Campinas
+ER  - 
+
+26.
+TY  - JOUR
+N1  - ASReview_relevant
+N1  - asreview_group_id: 52
+N1  - asreview_time: "2026-04-10 18:35:37"
+TI  - None
+T2  - International journal of Web & Semantic Technology
+AB  - Geographic data plays a vital role in supporting modern location-based services on the World Wide Web (WWW).In Bangladesh, such data exists in structured, semi-structured, and unstructured formats, stored across government agencies, research institutions, and private organizations using diverse formats and protocols.This heterogeneity creates significant integration challenges, limiting operational efficiency and the development of applications ranging from navigation and logistics to personalized services and emergency response.Our research addresses this by transforming and integrating disparate datasets into a machine-understandable form.We modeled the complete administrative hierarchy of Bangladesh, from divisions to villages, generating 0.40 million RDF (Resource Description Framework) triples within a unified semantic repository, Geo-Bangladesh.This repository enables effortless integration and retrieval of geospatial data across all administrative levels.We further linked Geo-Bangladesh with related repositories, including the educational institutions and citizen information, enabling the mapping and visualization of entities along with locations.Using geoSPARQL, we retrieved and inferred spatial and non-spatial data, demonstrating the repository's usability, interoperability, and effectiveness.Unlike raw GeoSPARQL implementations or general-purpose ontologies such as Geonames, Geo-Bangladesh is explicitly tailored to Bangladesh's administrative structure and reconciles inconsistencies such as the 68 vs. 64 districts problem.Compared to OGC-compliant frameworks, our repository incorporates both semantic interoperability and localized reconciliation, demonstrating advantages in accuracy, query flexibility, and alignment with national data sources.
+DA  - 2025/10/28/
+PY  - 2025
+DO  - 10.5121/ijwest.2025.164
+VL  - 16
+IS  - 4
+SN  - 0975-9026
+UR  - https://doi.org/10.5121/ijwest.2025.164
+L1  - https://aircconline.com/ijwest/V16N4/16425ijwest01.pdf
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+ER  - 

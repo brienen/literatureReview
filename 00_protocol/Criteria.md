@@ -49,6 +49,9 @@ last_updated: 2026-01-15
 - **EC5 – Non-government focus**  
   No clear focus on government data.
 
+- **EC6 – Not in English**  
+  Paper is in non standard language
+
 ## Full text Scoring Criteria
 
 **A. Topical Relevance (0–2)**

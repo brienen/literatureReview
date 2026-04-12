@@ -1,0 +1,1718 @@
+TY  - JOUR
+TI  - A Framework for Efficient Semantic Elicitation of EU-Wide Evidence for Public Services
+AU  - Guzmán, A.R.
+AU  - Karunaratne, T.
+T2  - Digital Government: Research and Practice
+AB  - Digital implementation of the Once-Only Principle (OOP) reduces the administrative burden of accessing public services and enhances public administration performance. It also facilitates the mobility of citizens and businesses within the European Union through legal and effective EU-wide evidence. However, despite the existence of several semantic standards, a lack of an ontology for EU-wide evidence persists, primarily due to the low level of EU harmonisation of information that may prove compliance with procedural requirements. Building EU-wide evidence involves several cross-border communities of practice, composed of experts with different technical, legal, organisational, semantic, idiomatic and cultural backgrounds, spanning various public administration levels and sectors. This diversity introduces a range of cross-border, socio-technical challenges that have not been directly addressed in existing literature or by European projects and initiatives. Based on the lessons learned from the Digital Europe for All (DE4A) large-scale pilot project, the DE4A EU-wide OOP Semantic Elicitation Framework (DEOSEF) is proposed to guide business and semantic experts in the elicitation of EU-wide evidence for target public services, through a collaborative, context-aware, and iterative agile process involving diverse communities of practice. This paper presents DEOSEF as a foundational step for future initiatives involving a combined semantic elicitation-creation of EU-wide evidence. © 2025 Copyright held by the owner/author(s).
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3757064
+VL  - 6
+IS  - 4
+J2  - Digit. Gov. Res. Pract.
+LA  - English
+PB  - Association for Computing Machinery
+SN  - 26390175 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105026657813&doi=10.1145%2F3757064&partnerID=40&md5=45f672e6eed49c48f4ca0b01345bc5a7
+DB  - Scopus
+L1  - https://dl.acm.org/doi/pdf/10.1145/3757064?download=true
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: A.R. Guzmán; Agencia Estatal de Administración Digital, Madrid, Spain; email: anarosa.guzman@correo.gob.es</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: A.R. Guzmán; Agencia Estatal de Administración Digital, Madrid, Spain; email: anarosa.guzman@correo.gob.es</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Semantics
+KW  - Administrative burdens
+KW  - Communities of Practice
+KW  - Cross-border
+KW  - cross-border interoperability
+KW  - Cross-border interoperability
+KW  - Digital implementation
+KW  - Digital public service
+KW  - digital public services
+KW  - European union
+KW  - Once-only principle
+KW  - Performance
+KW  - Public administration
+KW  - Public services
+KW  - Regulatory compliance
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview_Time: 2026-01-17 08:21:44
+KW  - ASReview: Relevant
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Toward Agile Interaction Model based ontology development Methodology (AIME) for FAIR European data spaces
+AU  - Nachabe, L.
+AU  - Hannou, F.-Z.
+AU  - Lefrançois, M.
+AU  - Jubault, M.
+T2  - CEUR Workshop Proceedings
+A2  - Oliveira, I.
+A2  - Barcelos, P.P.F.
+A2  - Calhau, R.
+A2  - Fonseca, C.M.
+A2  - Righetti, G.
+A2  - De Giorgis, S.
+A2  - Sacco, G.
+A2  - Hedblom, M.M.
+A2  - Kutz, O.
+A2  - Glauer, M.
+A2  - Stappel, M.
+A2  - Trojahn, C.
+A2  - Poveda-Villalon, M.
+A2  - Garijo, D.
+A2  - Bernabe, C.H.
+A2  - Lin, A.Y.
+A2  - Compagno, F.
+A2  - Fensel, A.
+A2  - Terkaj, W.
+A2  - Adamo, G.
+A2  - Dooley, D.
+A2  - Kumpel, M.
+A2  - Bordea, G.
+A2  - Warren, R.
+A2  - Sehar, A.
+A2  - Lange, M.
+A2  - Bindt, F.
+A2  - Toxopeus, I.
+A2  - Audrito, D.
+A2  - Grasso, F.
+A2  - Nai, R.
+A2  - Sulis, E.
+A2  - Beverley, J.
+A2  - Jensen, M.
+A2  - de Cesare, S.
+A2  - Gailly, F.
+A2  - Guizzardi, G.
+A2  - Partridge, C.
+A2  - Partridge, C.
+A2  - Pastor, O.
+A2  - Castro, A.G.
+A2  - Hubauer, T.
+A2  - Suess, W.
+A2  - Schmurr, P.
+A2  - Willis, M.
+A2  - Santamaria, D.F.
+A2  - van Ede, T.
+A2  - Klein, D.
+A2  - Engelberg, G.
+A2  - Engelberg, G.
+A2  - Castiglione, G.
+A2  - Bella, G.
+A2  - Continella, A.
+A2  - Lanti, D.
+A2  - Mosca, A.
+A2  - Scafoglieri, F.M.
+A2  - Xiao, G.
+A2  - Kutt, K.
+A2  - Fernandez-Breis, J.T.
+A2  - Pichler, A.
+A2  - Palko, G.
+A2  - Nalepa, G.J.
+A2  - Garbacz, P.
+A2  - Pergl, R.
+A2  - Khan, Z.C.
+A2  - Barcelos, P.P.F.
+A2  - Moreira, J.
+A2  - Barton, A.
+A2  - Sanfilippo, E.M.
+A2  - Daniele, L.
+A2  - Almeida, J.P.A.
+A2  - Franconi, E.
+A2  - Johannesson, P.
+A2  - Ghidini, C.
+A2  - Zamborlini, V.
+AB  - The European Union’s initiative on European data spaces aims to support innovation and economic growth by facilitating secure, interoperable data sharing across key sectors such as health, energy, and mobility. Within European data spaces, high priority is given to adherence to FAIR data principles. Thus, data and services should be findable, accessible, interoperable, and reusable. Ontologies as semantic models are fundamental in achieving semantic interoperability, as they provide a common framework for data and service access, discovery, understanding and reuse. However, the inherent complexity of data space initiatives, coupled with their underlying domains diversity are key challenge facing optimal FAIRness. This motivates the need for an agile methodology that aligns with data space principles, integrates existing domain standards, consolidates the use of metadata for ontology’s FAIRness, and engages various involved actors (domain experts, data service providers, ontology engineers) towards the development of common data space ontology. In the frame of the OMEGA-X project, aiming to build an energy data space, this paper presents AIME, an ontology development methodology integrating the reuse of both standards and reference ontologies to enable the development of modular ontologies for data spaces. It leverages agile principles to strengthen communication between various stakeholders through different steps: reference standards and ontologies selection, selection of use cases, design and selection of interaction models capturing data exchanges, ontology modules creation, automation and continuous integration features to support the entire original ontology engineering phase and reuse by data space users. © 2024 Copyright for this paper by its authors.
+C3  - CEUR Workshop Proc.
+DA  - 2024///
+PY  - 2024
+VL  - 3882
+LA  - English
+PB  - CEUR-WS
+SN  - 16130073 (ISSN); 9789666544899 (ISBN); 9788073780029 (ISBN); 9788024810256 (ISBN); 9789986342748 (ISBN); 9788073781712 (ISBN); 9782954494807 (ISBN); 9788024823911 (ISBN); 9789562361989 (ISBN); 8024810255 (ISBN); 807378002X (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214559076&partnerID=40&md5=a093f6066db7ddc6166cc967c9b2da8c
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: L. Nachabe; Mines Saint-Étienne, Univ. Clermont Auvergne, INP Clermont Auvergne, CNRS, UMR 6158 LIMOS, Saint-Étienne, F-42023, France; email: lina.nachabe@emse.fr</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: L. Nachabe; Mines Saint-Étienne, Univ. Clermont Auvergne, INP Clermont Auvergne, CNRS, UMR 6158 LIMOS, Saint-Étienne, F-42023, France; email: lina.nachabe@emse.fr</p>
+KW  - Ontology
+KW  - Ontology's
+KW  - Data space
+KW  - Data consistency
+KW  - Agile developement
+KW  - Development methodology
+KW  - European standards
+KW  - European Standards
+KW  - FAIR principle
+KW  - FAIR principles
+KW  - Interaction modeling
+KW  - Modular ontologies
+KW  - Ontology development
+KW  - Ontology Engineering Methodologies
+KW  - Ontology engineering methodology
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:08:34
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Digital Infrastructures for Compliance Monitoring of Circular Economy: Requirements for Interoperable Data Spaces
+AU  - Hofman, W.
+AU  - Rukanova, B.
+AU  - Tan, Y.H.
+AU  - Bharosa, N.
+AU  - Ubacht, J.
+AU  - Rietveld, E.
+T2  - Lecture Notes in Networks and Systems
+A2  - Arai, K.
+AB  - The transition towards a circular economy (CE) will require data sharing across different platforms and data spaces of parties operating in a variety of supply chains. From a circular economy compliance monitoring perspective, beyond the access to mandatory data that governments will receive, authorities may benefit from accessing additional business data from the source on a voluntary basis, which is challenging. While platforms and data spaces solve a great deal of complexity and interoperability within their realm, platform, and data space interoperability is still challenging. In the logistics domain, efforts have been made to overcome these issues of data sharing across logistics platforms with a Semantic data sharing architecture developed by the CEF FEDeRATED Action, at the heart of which is a semantic model aligning other semantic models for logistics. In this paper, we take the Semantic data sharing architecture as a point of departure and examine the opportunities and limitations that it has for CE monitoring, and how it relates to other developments in the EU and beyond. Many of these developments acknowledge the need for data access across heterogeneous systems and – processes of actors; others add security and trust to data sharing that goes all the way to the level to cover legal obligations. The goal of this paper is to gain further insights into how data sharing across multiple platforms and data spaces enables circular economy monitoring, where government organizations would need to address the issue of how they would interface with, and access data that resides in multiple platforms and data spaces. We found that the various models can be aligned on some architecture principles that promote interoperability across dimensions (e.g. federation, keeping data at the source), yet they still differ on other dimensions (e.g. data model and semantics, as well as how they address issues of identification, authentication and authorization). We suggest further efforts towards developing meta-level agreements and standardization for data space interoperability and we propose further research directions on that topic. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2024.
+C3  - Lect. Notes Networks Syst.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/978-3-031-54053-0_24
+VL  - 921 LNNS
+SP  - 332
+EP  - 351
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 23673370 (ISSN); 9789819652372 (ISBN); 9783031931055 (ISBN); 9789819662968 (ISBN); 9783031999963 (ISBN); 9783031950162 (ISBN); 9783031947698 (ISBN); 9783032004406 (ISBN); 9783031910074 (ISBN); 9783032066671 (ISBN); 9783031926105 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189311611&doi=10.1007%2F978-3-031-54053-0_24&partnerID=40&md5=117da55aad1c7d556fc06b3fc1481eab
+DB  - Scopus
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-031-54053-0_24.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 4; Correspondence Address: B. Rukanova; Delft University of Technology, Delft, Netherlands; email: b.d.rukanova@tudelft.nl</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 4; Correspondence Address: B. Rukanova; Delft University of Technology, Delft, Netherlands; email: b.d.rukanova@tudelft.nl</p>
+KW  - Interoperability
+KW  - Semantics
+KW  - Data spaces
+KW  - Monitoring
+KW  - Data Sharing
+KW  - Data space
+KW  - Authentication
+KW  - Circular economy
+KW  - Compliance monitoring
+KW  - Data sharing architecture
+KW  - Government
+KW  - Multiple data
+KW  - Platform
+KW  - Platforms
+KW  - Semantic data
+KW  - Semantic modelling
+KW  - Space platforms
+KW  - Supply chains
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:06:28
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - The Impact of Semantic Web and Ontology to Improve E-Government Services: A Systematic Review
+AU  - Altahir, B.H.
+AU  - Karrar, A.E.
+AU  - Mohmmed, S.S.
+T2  - Indonesian Journal of Electrical Engineering and Informatics
+AB  - The semantic web and ontology are extensions of the World Wide Web that aim to make data more interconnected and machine-readable. This systematic review examined researched publications published between 2018 and 2023 and indexed in Google Scholar and Science Direct. 23 records were chosen and classified into six groups: information and retrieval, knowledge archiving, interoperability, enhancing public and employee services, barriers to ontology application, and use of ontologies to apply the regulations. This study explored the semantic web and ontology used to enhance e-government services. It found that improving ontology for searched and information retrieval processes could help computers retrieve accurate results, improve interoperability and integration, and provide a knowledge base for terms used in building databases and applications. However, more research is needed to effectively integrate ontology into existing systems and extend these approaches to real-world contexts. Future research should focus on presenting an applied model of e-government technology and conducting continuous evaluations. © 2023 Institute of Advanced Engineering and Science. All rights reserved.
+DA  - 2023///
+PY  - 2023
+DO  - 10.52549/ijeei.v11i4.5024
+VL  - 11
+IS  - 4
+SP  - 1082
+EP  - 1096
+J2  - Indones. J. Electr. Eng. Informatics
+LA  - English
+PB  - Institute of Advanced Engineering and Science
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183086947&doi=10.52549%2Fijeei.v11i4.5024&partnerID=40&md5=93a9d71dc1c25f8fb97e42864b8a25a8
+DB  - Scopus
+L1  - https://section.iaesonline.com/index.php/IJEEI/article/download/5024/882
+N1  - <p>Export Date: 17 January 2026; Cited By: 1; Correspondence Address: B.H. Altahir; College of Computer Science and Information Technology, Omdurman Islamic University, Sudan; email: Badraldeen.Altahir@gmail.com</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 1; Correspondence Address: B.H. Altahir; College of Computer Science and Information Technology, Omdurman Islamic University, Sudan; email: Badraldeen.Altahir@gmail.com</p>
+KW  - E-government ontology
+KW  - E-government Ontology
+KW  - Electronic-government services
+KW  - Semantic web
+KW  - Semantic Web Ontology
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 11:39:23
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - A Canonical Evidence-based Approach for Semantic Interoperability in Cross-border and Cross-domain e-Government Services
+AU  - Karunaratne, T.
+AU  - Kontopoulos, E.
+AU  - Konstantinidis, I.
+AU  - Guzmán Carbonell, A.R.
+T2  - ACM International Conference Proceeding Series
+A2  - Amaral, L.
+A2  - Soares, D.
+A2  - Zheng, L.
+AB  - This paper demonstrates a proof of concept for cross-border information exchange guided by the single digital gateway regulation (SDGR) and once-only principle (OOP). The research systematically investigates the challenges and limitations of existing solutions for semantic interoperability. Furthermore, the concept of canonical evidence is introduced as a tool for the cross-border exchange of structured data automatically with less ambiguity and in compliance with the legal requirements of the selected public services. A design science research approach in an agile set-up is applied in the artefact (canonical evidences) development process. The requirements are elicited based on eight case studies set up in the context of the EU initiative, Digital Europe for all (De4a). The data models developed in this study are in compliance with the requirements and provisions of a selected set of EU member states. The outcome of the study includes eleven evidence types that could be reusable in executing procedures of respective e-Government services. © 2022 Owner/Author.
+C3  - ACM Int. Conf. Proc. Ser.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3560107.3560299
+SP  - 131
+EP  - 139
+LA  - English
+PB  - Association for Computing Machinery
+SN  - 21531633 (ISSN); 9781450377881 (ISBN); 9781450385855 (ISBN); 9781450314398 (ISBN); 9781450396387 (ISBN); 9781450390019 (ISBN); 9781450390217 (ISBN); 9781450348270 (ISBN); 9781450381963 (ISBN); 9781450322485 (ISBN); 9781450348201 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142647227&doi=10.1145%2F3560107.3560299&partnerID=40&md5=f545d8e22c120f88d4cf1b24abbda2e2
+DB  - Scopus
+L1  - https://dl.acm.org/doi/pdf/10.1145/3560107.3560299?download=true
+N1  - <p>Export Date: 17 January 2026; Cited By: 3; Correspondence Address: T. Karunarathne; Department of Computer and Systems Sciences, Stockholm University, Sweden; email: thasmee@dsv.su.se</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 3; Correspondence Address: T. Karunarathne; Department of Computer and Systems Sciences, Stockholm University, Sweden; email: thasmee@dsv.su.se</p>
+KW  - Interoperability
+KW  - Semantics
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:Time=2025-10-31 15:57
+KW  - DONE
+KW  - Cross-border
+KW  - Public services
+KW  - Information exchanges
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Cross-domain
+KW  - E-government services
+KW  - Evidence-based
+KW  - Information services
+KW  - Legal requirements
+KW  - Proof of concept
+KW  - Structured data
+KW  - Computer science
+KW  - Software engineering
+KW  - World Wide Web
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - LR_Previous Studies
+KW  - LR_PriorKnowledge: positive
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 08:15:31
+KW  - Government (linguistics)
+KW  - Context (archaeology)
+KW  - Process (computing)
+KW  - Domain (mathematical analysis)
+KW  - Agile software development
+KW  - Mathematics
+KW  - Ambiguity
+KW  - Set (abstract data type)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CONF
+TI  - Designing An Ecosystem Model for E-Government Ontology Development Using Ecosystem Pie Model
+AU  - Dri Kurniawan, R.
+AU  - Saraswati Wisjnu Wardhani, S.
+AU  - Nuryanti, L.
+AU  - Ba’Abdullah, F.
+AU  - Ayu Untariyati, N.
+AU  - Srimoeljanto, A.
+AU  - Hidayati, N.
+AB  - The emergence of e-Government as a concept and practice has been a significant development over the last decade. Government Institutions have developed various applications providing public or inter-governmental services. These E-Government applications, some are legacy applications, were built independently using different platforms. Consequently, this heterogeneity creates problems such as lack of data integration and system interoperability. This integration/interoperability problem makes it difficult to perform semantic linking between databases to create a government knowledge base which is critical for knowledge discovery and innovation. Ontology has been regarded as a promising technology to solve this integration/interoperability problem as it provides semantic interoperability and promotes knowledge discovery and innovation. To support the development and operation of cross domain government ontology services for semantic interoperability in e-government systems, it is necessary to define an ecosystem model. The aim of research is to design an ontology development ecosystem model for Indonesian E-Government System using Ecosystem Pie Model. © 2022 IEEE.
+C3  - Proceeding - Int. Conf. Inf. Technol., Inf. Syst. Electr. Eng.: Appl. Data Sci. Artif. Intell. Technol. Environ. Sustain., ICITISEE
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/ICITISEE57756.2022.10057669
+SP  - 99
+EP  - 103
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 9798350399615 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150458501&doi=10.1109%2FICITISEE57756.2022.10057669&partnerID=40&md5=b8357eeadeaa0f16d8b880f7f068a6b5
+DB  - Scopus
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10057669&ref=
+N1  - <p>Export Date: 17 January 2026; Cited By: 2</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 2</p>
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantics
+KW  - Ontology's
+KW  - Data integration
+KW  - Semantic interoperability
+KW  - Knowledge based systems
+KW  - Knowledge management
+KW  - Ontology development
+KW  - e-Government
+KW  - e-government
+KW  - E-Government
+KW  - E-government systems
+KW  - Ecosystem
+KW  - Ecosystem model
+KW  - Ecosystem pie model
+KW  - Ecosystem Pie Model
+KW  - Ecosystems
+KW  - Government institutions
+KW  - Governmental services
+KW  - Knowledge discovery and innovations
+KW  - Computer science
+KW  - Software engineering
+KW  - World Wide Web
+KW  - Domain knowledge
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:27:58
+KW  - Business
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Cross-domain interoperability
+KW  - Ontology-based data integration
+KW  - Upper ontology
+KW  - Process management
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Semantic Technologies for Digital Interoperability in the European Railway Domain
+AU  - Rojas, J.A.
+AU  - Aguado, M.
+AU  - Vasilopoulou, P.
+AU  - Velitchkov, I.
+AU  - van Assche, D.
+AU  - Colpaert, P.
+AU  - Verborgh, R.
+T2  - Lecture Notes in Computer Science
+A2  - Hotho, A.
+A2  - Blomqvist, E.
+A2  - Dietze, S.
+A2  - Fokoue, A.
+A2  - Ding, Y.
+A2  - Barnaghi, P.
+A2  - Haller, A.
+A2  - Dragoni, M.
+A2  - Alani, H.
+AB  - The European Union Agency for Railways is an European authority, tasked with the provision of a legal and technical framework to support harmonized and safe cross-border railway operations throughout the EU. So far, the agency relied on traditional application-centric approaches to support the data exchange among multiple actors interacting within the railway domain. This lead however, to isolated digital environments that consequently added barriers to digital interoperability while increasing the cost of maintenance and innovation. In this work, we show how Semantic Web technologies are leveraged to create a semantic layer for data integration across the base registries maintained by the agency. We validate the usefulness of this approach by supporting route compatibility checks, a highly demanded use case in this domain, which was not available over the agency’s registries before. Our contributions include (i) an official ontology for the railway infrastructure and authorized vehicle types, including 28 reference datasets; (ii) a reusable Knowledge Graph describing the European railway infrastructure; (iii) a cost-efficient system architecture that enables high-flexibility for use case development; and (iv) an open source and RDF native Web application to support route compatibility checks. This work demonstrates how data-centric system design, powered by Semantic Web technologies and Linked Data principles, provides a framework to achieve data interoperability and unlock new and innovative use cases and applications. Based on the results obtained during this work, ERA officially decided to make Semantic Web and Linked Data-based approaches, the default setting for any future development of the data, registers and specifications under the agency’s remit for data exchange mandated by the EU legal framework. The next steps, which are already underway, include further developing and bringing these solutions to a production-ready state. © 2021, Springer Nature Switzerland AG.
+C3  - Lect. Notes Comput. Sci.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1007/978-3-030-88361-4_38
+VL  - 12922 LNCS
+SP  - 648
+EP  - 664
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 03029743 (ISSN); 9789819698936 (ISBN); 9789819698042 (ISBN); 9789819698110 (ISBN); 9789819698905 (ISBN); 9783032004949 (ISBN); 9789819512324 (ISBN); 9783032026019 (ISBN); 9783032008909 (ISBN); 9783031915802 (ISBN); 9789819698141 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116869983&doi=10.1007%2F978-3-030-88361-4_38&partnerID=40&md5=e58fbfe9952e042ebf5d8ea7f97dd4f3
+DB  - Scopus
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-030-88361-4_38.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 23; Correspondence Address: J.A. Rojas; IDLab, Department of Electronics and Information Systems, Ghent University – imec, Ghent, Technologiepark-Zwijnaarde 122, 9052, Belgium; email: julianandres.rojasmelendez@ugent.be</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 23; Correspondence Address: J.A. Rojas; IDLab, Department of Electronics and Information Systems, Ghent University – imec, Ghent, Technologiepark-Zwijnaarde 122, 9052, Belgium; email: julianandres.rojasmelendez@ugent.be</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Cross-border
+KW  - European union
+KW  - Data integration
+KW  - Electronic data interchange
+KW  - Semantic Web technology
+KW  - Knowledge management
+KW  - Computer software reusability
+KW  - Linked data
+KW  - Semantic technologies
+KW  - European authorities
+KW  - European railways
+KW  - Legal frameworks
+KW  - Railroad transportation
+KW  - Railroads
+KW  - Railway infrastructure
+KW  - Railway operations
+KW  - Technical frameworks
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:15:16
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - An Ontology for Chinese Government Archives Knowledge Representation and Reasoning
+AU  - Wang, Z.
+AU  - Song, Z.
+AU  - Yu, G.
+AU  - Wang, X.
+T2  - IEEE Access
+AB  - Government archives comprise a series of documents or important information resources produced or used by government departments to meet the needs of economic and social governance, fulfill government functions, and perform official activities. They have inestimable value in economic development, social operations, and strategy. However, due to the lack of effective application of knowledge management technology, government information resources are locked in archive records, making it difficult to achieve knowledge organization and interoperability. Based on the theories and methods of the semantic web and semantic ontology construction, we summarize the relevant domain knowledge of government archives and construct the Chinese Government Archive Ontology (GAO) with the collection of government archives as the data. The ontology model implements the semantic interoperability between government archives and performs knowledge representation and reasoning on their content. We define the classes and properties of GAO, describe its creation process in detail, and demonstrate its applicability in practice through SPARQL query and event logical representation based on the 5W1H framework. GAO is capable of realizing linked data and discovering the knowledge hidden behind the policies of various agencies and departments, which can serve scientific decision-making and the economic society, regulate institutional powers, and further promote the research and practice of archival science in the digital age. © 2013 IEEE.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3112001
+VL  - 9
+SP  - 130199
+EP  - 130211
+J2  - IEEE Access
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114710392&doi=10.1109%2FACCESS.2021.3112001&partnerID=40&md5=53a9fe362519b00252b4e0cb60a4291f
+DB  - Scopus
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9535509&ref=
+N1  - <p>Export Date: 17 January 2026; Cited By: 7; Correspondence Address: G. Yu; School of Management, Harbin Institute of Technology, Harbin, 150001, China; email: yug@hit.edu.cn</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 7; Correspondence Address: G. Yu; School of Management, Harbin Institute of Technology, Harbin, 150001, China; email: yug@hit.edu.cn</p>
+KW  - Interoperability
+KW  - Ontology
+KW  - Decision making
+KW  - Knowledge representation
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Knowledge management
+KW  - Artificial intelligence
+KW  - semantic ontology
+KW  - Digital storage
+KW  - Government archives
+KW  - Government departments
+KW  - Government information
+KW  - Knowledge management technology
+KW  - Knowledge organization
+KW  - Knowledge representation and reasoning
+KW  - Logical representations
+KW  - Protégé
+KW  - RDF schemas
+KW  - Scientific decisions
+KW  - Computer science
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:39:00
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Epistemology
+KW  - Natural language processing
+KW  - Political science
+KW  - Representation (politics)
+KW  - Politics
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Raising interoperability among base registries: The evolution of the Linked Base Registry for addresses in Flanders
+AU  - Buyle, R.
+AU  - Vanlishout, Z.
+AU  - Coetzee, S.
+AU  - De Paepe, D.
+AU  - van Compernolle, M.
+AU  - Thijs, G.
+AU  - van Nuffelen, B.
+AU  - de Vocht, L.
+AU  - Mechant, P.
+AU  - de Vidts, B.
+AU  - Mannens, E.
+T2  - Journal of Web Semantics
+AB  - The transformation of society towards a digital economy and government austerity creates a new context leading to changing roles for both government and private sector. Boundaries between public and private services are blurring, enabling government and private sector to collaborate and share responsibilities. In Belgium, the regional Government of Flanders embedded the re-use of public sector information in its legislation and published a data portal containing well over 4000 Open Datasets. Due to a lack of interoperability, interconnecting and interpreting these sources of information remain challenges for public administrations, businesses and citizens. To dissolve the boundaries between the data silos, the Flemish government applied Linked Data design principles in an operational public sector context. This paper discusses the trends we have identified while ‘rewiring’ the Authentic Source for addresses to a Linked Base Registry. We observed the impact on multiple interoperability levels; namely on the legal, organisational, semantic and technical level. In conclusion Linked Data can increase semantic and technical interoperability and lead to a better adoption of government information in the public and private sector. We strongly believe that the insights from the past thirteen years in the region of Flanders could speed up processes in other countries that are facing the complexity of raising technical and semantic interoperability. © 2018 Elsevier B.V.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.websem.2018.10.003
+VL  - 55
+SP  - 86
+EP  - 101
+J2  - J. Web Semant.
+LA  - English
+PB  - Elsevier B.V.
+SN  - 15708268 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056627811&doi=10.1016%2Fj.websem.2018.10.003&partnerID=40&md5=11e73928a22e18212eb3b06ddc22b4d4
+DB  - Scopus
+L1  - https://repository.up.ac.za/bitstream/2263/68114/1/Buyle_Raising_2018.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 11; Correspondence Address: R. Buyle; imec IDLab — Ghent University, Ghent, Belgium; email: raf.buyle@ugent.be</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 11; Correspondence Address: R. Buyle; imec IDLab — Ghent University, Ghent, Belgium; email: raf.buyle@ugent.be</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Public administration
+KW  - Government data processing
+KW  - Semantic interoperability
+KW  - Data handling
+KW  - Linked Open Data
+KW  - Semantic web
+KW  - Linked data
+KW  - Technical interoperability
+KW  - e-government
+KW  - Government information
+KW  - Sources of informations
+KW  - Address registry
+KW  - E-governments
+KW  - Public and private sector
+KW  - Public sector information
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:31:34
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CHAP
+TI  - Establishing Common Ground Through INSPIRE: The Legally-Driven European Spatial Data Infrastructure
+AU  - Cetl, V.
+AU  - Tomas, R.
+AU  - Kotsev, A.
+AU  - de Lima, V.N.
+AU  - Smith, R.S.
+AU  - Jobst, M.
+T2  - Lect. Notes Geoinformation Cartogr.
+AB  - Back in the 1990s, there were several barriers for accessing and using the spatial data and information necessary for environmental management and policy making in Europe. These included different data policies, encodings, formats and semantics, to name a few. Data was collected for, and applied to, domain specific use cases and comprehensive standards did not exist, all impacting on the re-usability of such public sector data. To release the potential of spatial data held by public authorities and improve evidence-based environmental policy making, action was needed at all levels (Local, Regional, National, European) to introduce more effective data and information management and to make data available for citizens’ interest. The INSPIRE Directive, the Infrastructure for Spatial Information in Europe, directly addresses this set of problems. The Directive came into force on 15 May 2007, with full implementation in every EU Member State required by 2021. It combines both, a legal and a technical framework for the EU Member States, to make relevant spatial data accessible and reused. Specifically, this has meant making data discoverable and interoperable through a common set of standards, data models and Internet services. The Directive’s data scope covers 34 themes of cross-sector relevance as a decentralised infrastructure where data remains at the place it can be best maintained. A great deal of experience has been gained by public administrations through its implementation. Due to its complexity and wide scope, this is taking place in a stepwise manner, with benefits already emerging as important deadlines approached. Efficient and effective coordination are following the participatory approach established in its design. It is timely to reflect on 10 years of progress of the “cultural change” which the European Spatial Data Infrastructure represents. We therefore, consider the lessons INSPIRE is offering for those interested in joined-up and federated approaches to geospatial data-sharing and semantic interoperability across borders and sectors. The approach itself is evolving through this experience. © Springer International Publishing AG, part of Springer Nature 2019.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1007/978-3-319-72434-8_3
+VL  - 2019
+SP  - 63
+EP  - 84
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 18632246 (ISSN); 18632351 (ISSN); 9783642158612 (ISBN); 9783642105944 (ISBN); 9783540770589 (ISBN); 9783319036434 (ISBN); 9783319639468 (ISBN); 9783319337821 (ISBN); 9783642224416 (ISBN); 9783540789451 (ISBN); 9783319005157 (ISBN); 9783642363795 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212505666&doi=10.1007%2F978-3-319-72434-8_3&partnerID=40&md5=cbe93befac9fd5c03787f4d063c66a63
+DB  - Scopus
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-319-72434-8_3.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 20; Correspondence Address: V. Cetl; European Commission, Joint Research Centre, Ispra, Italy; email: vlado.cetl@ec.europa.eu</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 20; Correspondence Address: V. Cetl; European Commission, Joint Research Centre, Ispra, Italy; email: vlado.cetl@ec.europa.eu</p>
+KW  - Interoperability
+KW  - European union
+KW  - Data mining
+KW  - Policy making
+KW  - Data consistency
+KW  - Public sector
+KW  - Data interoperability
+KW  - Open data
+KW  - Data and information
+KW  - Data interoperability service-oriented architecture
+KW  - Data interoperability Service-oriented architecture
+KW  - European spatial data infrastructure
+KW  - INSPIRE
+KW  - Soa (serviceoriented architecture)
+KW  - Spatial data
+KW  - Spatial data infrastructure
+KW  - Spatial informations
+KW  - Computer science
+KW  - World Wide Web
+KW  - Spatial analysis
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 08:26:05
+KW  - Business
+KW  - Usability
+KW  - Scope (computer science)
+KW  - Political science
+KW  - Data management
+KW  - Data Protection Directive
+KW  - Directive
+KW  - Geography
+KW  - Member state
+KW  - Member states
+KW  - Public domain
+KW  - Relevance (law)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CONF
+TI  - Exploring the role of enterprise architecture models in the modularization of an ontology network: A case in the public security domain
+AU  - Detoni, A.A.
+AU  - Miranda, G.M.
+AU  - Renault, L.D.C.
+AU  - Falbo, R.D.A.
+AU  - Almeida, J.P.A.
+AU  - Guizzardi, G.
+AU  - Barcellos, M.P.
+T2  - Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOCW
+A2  - Lapalme, J.
+A2  - Halle, S.
+A2  - Dijkman, R.
+AB  - Ontologies play a key role in semanticinteroperability projects, capturing the conceptualizationunderlying the various systems to be integrated. In the case oflarge information systems landscapes, a single monolithicontology often becomes hard to design and maintain. In thissetting, it is common to divide the ontological model inconsistently interlinked modular ontologies, forming anontology network. This paper explores the role of EnterpriseArchitecture (EA) models in defining the ontologies in anontology network. We report on an exploratory study in thescope of an e-Government interoperability project in the areaof public security. In the reported study, an EA model providesguidance in the modularization of the ontology network. © 2017 IEEE.
+C3  - Proc IEE Int. Enterprise Distrib. Obj. Comput. Workshop EDOCW
+DA  - 2017///
+PY  - 2017
+DO  - 10.1109/EDOCW.2017.29
+VL  - 2017-October
+SP  - 117
+EP  - 126
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 15417719 (ISSN); 0769516564 (ISBN); 9781467399333 (ISBN); 9780769528915 (ISBN); 9781538641415 (ISBN); 9781479954704 (ISBN); 9781467392037 (ISBN); 9781424455645 (ISBN); 0769508650 (ISBN); 9780769541631 (ISBN); 0769528910 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043587579&doi=10.1109%2FEDOCW.2017.29&partnerID=40&md5=58cc969cae9959b821267f231bacc68c
+DB  - Scopus
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8089841&ref=
+N1  - <p>Export Date: 17 January 2026; Cited By: 7</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 7</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantics
+KW  - Enterprise Architecture
+KW  - Government data processing
+KW  - Architecture
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Network security
+KW  - Conceptual model
+KW  - E-government
+KW  - E-governments
+KW  - Computer science
+KW  - Enterprise architecture
+KW  - Conceptual modeling
+KW  - Exploratory studies
+KW  - Exploratory study
+KW  - Modular construction
+KW  - Network architecture
+KW  - Networked ontologies
+KW  - Ontology modularization
+KW  - Ontology network
+KW  - Ontology networks
+KW  - Public security
+KW  - Software engineering
+KW  - Software
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-21 10:30:26
+KW  - Computer security
+KW  - Programming language
+KW  - Domain (mathematical analysis)
+KW  - Mathematics
+KW  - Architecture domain
+KW  - Enterprise architecture framework
+KW  - Enterprise information security architecture
+KW  - Modular programming
+KW  - Software architecture
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - OSLO: Open standards for linked organizations
+AU  - Buyle, R.
+AU  - de Vocht, L.
+AU  - van Compernolle, M.
+AU  - De Paepe, D.
+AU  - Verborgh, R.
+AU  - Vanlishout, Z.
+AU  - de Vidts, B.
+AU  - Mechant, P.
+AU  - Mannens, E.
+T2  - ACM International Conference Proceeding Series
+AB  - Each government level uses its own different information system. At the same time citizens expect that these governmental levels adopt a user-centric approach and provide instant access to their data or to open government data. Therefore the applications at various government levels need to be interoperable in support of the 'once only-principle': data is inputted and registered only once and then reused. Given government budget constraints and the cost and complexity of (re)modeling, translating and transforming data over and over, public administrations need to reduce interoperability costs. This is achieved by semantically aligning information between the different information systems of each government level. Semantical interoperable systems facilitate citizen-centered e-government services. This paper illustrates how the Open Standards for Linked Organizations program (OSLO) paved the way bottom-up from a broad basis of stakeholders towards a government-endorsed strategy. OSLO applied a generic process and methodology and provided practical insights on how to overcome the encountered hurdles: political support and adoption; reaching semantic agreement. The lessons learned in the region of Flanders (Belgium) can speed-up the process in other countries that face the complexity of integrating information intensive processes between different applications, administrations and government levels.
+C3  - ACM Int. Conf. Proc. Ser.
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/3014087.3014096
+VL  - 22-23-November-2016
+SP  - 126
+EP  - 134
+LA  - English
+PB  - Association for Computing Machinery acmhelp@acm.org
+SN  - 21531633 (ISSN); 9781450377881 (ISBN); 9781450385855 (ISBN); 9781450314398 (ISBN); 9781450396387 (ISBN); 9781450390019 (ISBN); 9781450390217 (ISBN); 9781450348270 (ISBN); 9781450381963 (ISBN); 9781450322485 (ISBN); 9781450348201 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008237812&doi=10.1145%2F3014087.3014096&partnerID=40&md5=ac4ef396fd95a9d4d31c207ff2173617
+DB  - Scopus
+L1  - https://dl.acm.org/doi/pdf/10.1145/3014087.3014096?download=true
+N1  - <p>Export Date: 17 January 2026; Cited By: 18</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 18</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Semantics
+KW  - Public administration
+KW  - Metadata
+KW  - Information systems
+KW  - Government data processing
+KW  - Public Administration
+KW  - E-government services
+KW  - Information services
+KW  - E-Government
+KW  - Vocabulary
+KW  - RDF
+KW  - Budget control
+KW  - E-governments
+KW  - Integrating information
+KW  - Budget constraint
+KW  - Domain model
+KW  - Domain Model
+KW  - Interoperable systems
+KW  - Political support
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:33:04
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CONF
+TI  - Comparative study of the systems of semantic integration of information: A survey
+AU  - Banouar, O.
+AU  - Raghay, S.
+T2  - Proceedings of IEEE/ACS International Conference on Computer Systems and Applications, AICCSA
+AB  - The emergence of new applications that need to share information between different sources of information, such as e-learning, e-commerce, e-government, and electronic libraries requires interoperability between information systems. The information systems are designed and developed by different organizations to be autonomous and heterogeneous sources which lead to multiple structuring formats and different interpretations of the same data. So to simplify data access, the virtual integration of heterogeneous, autonomous and distributed data sources is required based on the couple mediator-wrapper and founded on ontologies that provide a consensual terminology. The mediator masks the heterogeneity and distributes the data sources, while the adapter accommodates queries to data sources formats. Information systems exchange data and services thanks to the rich context that the semantic web offers. It aims to provide data understandable by humans and machines that perform automatic processing by software modules following a semantic enrichment. This article is a survey of the state of art that compare the previous works according to several criteria. © 2015 IEEE.
+C3  - Proc. IEEE/ACS Int. Conf. Comput. Syst. Appl., AICCSA
+DA  - 2016///
+PY  - 2016
+DO  - 10.1109/AICCSA.2015.7507235
+VL  - 2016-July
+LA  - English
+PB  - IEEE Computer Society help@computer.org
+SN  - 21615322 (ISSN); 9781457704741 (ISBN); 9781538691205 (ISBN); 9781665409698 (ISBN); 9781728185774 (ISBN); 9781728150529 (ISBN); 9798331518240 (ISBN); 9781479971008 (ISBN); 9798350319439 (ISBN); 9781509043200 (ISBN); 9781538635810 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84980349505&doi=10.1109%2FAICCSA.2015.7507235&partnerID=40&md5=10b4b68fe54762ce2ab3584f7f7bcc63
+DB  - Scopus
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7507235&ref=
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantic heterogeneity
+KW  - Information systems
+KW  - Data integration
+KW  - Government data processing
+KW  - Semantic interoperability
+KW  - Comparison
+KW  - Ontologies
+KW  - Surveys
+KW  - E-learning
+KW  - Digital libraries
+KW  - Data integration system
+KW  - Data Integration systems
+KW  - Knowledge integration
+KW  - Knowledge Integration systems
+KW  - Mediation approaches
+KW  - Standards languages
+KW  - State of art
+KW  - Survey
+KW  - Surveying
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 11:34:20
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CONF
+TI  - State-of-the-art assessment on the implementations of international core data models for public administrations
+AU  - van Compernolle, M.
+AU  - de Vocht, L.
+AU  - Goedertier, S.
+AU  - Loutas, N.
+AU  - Verborgh, R.
+AU  - Mannens, E.
+AU  - Mechant, P.
+AU  - Peristeras, V.
+AU  - van de Walle, R.
+T2  - ACM International Conference Proceeding Series
+A2  - Estevez, E.
+A2  - Bertot, J.
+A2  - Mellouli, S.
+AB  - Public administrations are often still organised in vertical, closed silos. The lack of common data standards (common data models and reference data) for exchanging information between administrations in a cross-domain and/or cross-border setting stands in the way of digital public services and automated flow of information between public administrations. Core data models address this issue, but are often created within the closed environment of a country or region and within one policy domain. A lack of insight exists in understanding and managing the life-cycle of these initiatives on public administration information systems for data modelling and data exchange. In this paper, we outline state-of-the-art implementations and vocabularies linked to the core data models. In particular we inventoried and selected existing core data models and identified tendencies in current practices based on the criteria creation, use, maintenance and coordination. Based on the analysis, this survey suggest research directions for policy and information management studies pointing to best practices regarding core data model implementations and their role in linking isolated data silos within a cross-country context. Finally we highlight the differences in their coordination and maintenance, depending on the state of creation and use. © 2016 ACM.
+C3  - ACM Int. Conf. Proc. Ser.
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/2910019.2910027
+VL  - 01-03-March-2016
+SP  - 327
+EP  - 337
+LA  - English
+PB  - Association for Computing Machinery acmhelp@acm.org
+SN  - 21531633 (ISSN); 9781450377881 (ISBN); 9781450385855 (ISBN); 9781450314398 (ISBN); 9781450396387 (ISBN); 9781450390019 (ISBN); 9781450390217 (ISBN); 9781450348270 (ISBN); 9781450381963 (ISBN); 9781450322485 (ISBN); 9781450348201 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84976351788&doi=10.1145%2F2910019.2910027&partnerID=40&md5=82c00ffbc74fc02e8010804525583eb1
+DB  - Scopus
+L1  - https://dl.acm.org/doi/pdf/10.1145/2910019.2910027?download=true
+N1  - <p>Export Date: 17 January 2026; Cited By: 1</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 1</p>
+KW  - Interoperability
+KW  - Public administration
+KW  - Public services
+KW  - Information management
+KW  - Government data processing
+KW  - Electronic data interchange
+KW  - Life cycle
+KW  - e-Government
+KW  - Open data
+KW  - Data exchange
+KW  - Common data model
+KW  - Computer science
+KW  - State of the art
+KW  - Data modeling
+KW  - Software engineering
+KW  - World Wide Web
+KW  - Closed environment
+KW  - Core data models
+KW  - Current practices
+KW  - EGovernment
+KW  - Governance
+KW  - Inventory
+KW  - Lifecycle
+KW  - Implementation
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:39:34
+KW  - Business
+KW  - Data science
+KW  - Context (archaeology)
+KW  - Domain (mathematical analysis)
+KW  - Political science
+KW  - Process management
+KW  - Database
+KW  - Data management
+KW  - Public domain
+KW  - Best practice
+KW  - Core (optical fiber)
+KW  - Core model
+KW  - Data model (GIS)
+KW  - State (computer science)
+KW  - Telecommunications
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Information sharing performance management: A semantic interoperability assessment in the maritime surveillance domain
+AU  - Dias Marques, F.S.B.
+AU  - Marín, J.E.M.
+AU  - Ortega, O.D.
+A2  - Fred, A.
+A2  - Dietz, J.
+A2  - Aveiro, D.
+A2  - Liu, K.
+A2  - Filipe, J.
+A2  - Filipe, J.
+AB  - Information Sharing (IS) is essential for organizations to obtain information in a cost-effective way. If the existing information is not shared among the organizations that hold it, the alternative is to develop the necessary capabilities to acquire, store, process and manage it, which will lead to duplicated costs, especially unwanted if governmental organizations are concerned. The European Commission has elected IS among public administrations as a priority, has launched several IS initiatives, such as the EUCISE2020 project within the roadmap for developing the maritime Common Information Sharing Environment (CISE), and has defined the levels of interoperability essential for IS, which entail Semantic Interoperability (SI). An open question is how can IS performance be managed? Specifically, how can IS as-is, and to-be states and targets be defined, and how can organizations progress be monitored and controlled? In this paper, we propose 11 indicators for assessing SI that contribute to answering these questions. They have been demonstrated and evaluated with the data collected through a questionnaire, based on the CISE information model proposed during the CoopP project, which was answered by five public authorities that require maritime surveillance information and are committed to share information with each other. © 2015 by SCITEPRESS - Science and Technology Publications, Lda. All rights reserved.
+C3  - IC3K - Proc. Int. Jt. Conf. Knowl. Discov., Knowl. Eng. Knowl. Manag.
+DA  - 2015///
+PY  - 2015
+DO  - 10.5220/0005712003820393
+VL  - 3
+SP  - 382
+EP  - 393
+LA  - English
+PB  - SciTePress
+SN  - 9789897581588 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84960953696&doi=10.5220%2F0005712003820393&partnerID=40&md5=d81befa9fa37d15f30779a8d4474a196
+DB  - Scopus
+L1  - https://upcommons.upc.edu/bitstream/2117/100061/1/Angel_rodriguez_Accepted%20manuscript.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+KW  - Interoperability
+KW  - Semantics
+KW  - Monitoring
+KW  - European union
+KW  - Public administration
+KW  - Information dissemination
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Information Modeling
+KW  - Public authorities
+KW  - European Commission
+KW  - Information sharing
+KW  - Information analysis
+KW  - Computer science
+KW  - Knowledge engineering
+KW  - World Wide Web
+KW  - Cost effective
+KW  - Cost effectiveness
+KW  - Indicators
+KW  - Indicators (instruments)
+KW  - Maritime surveillance
+KW  - Performance management
+KW  - European commission
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:03:21
+KW  - Business
+KW  - Cross-domain interoperability
+KW  - Process (computing)
+KW  - Process management
+KW  - Commission
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - CONF
+TI  - Generic data models for Semantic e- Government interoperability: Literature Review
+AU  - Ryhänen, K.
+AU  - Päivärinta, T.
+AU  - Tyrväinen, P.
+T2  - Innovation and the Public Sector
+A2  - Janssen, M.F.W.H.A.
+A2  - Scholl, H.J.
+A2  - Macintosh, A.
+A2  - Tambouris, E.
+A2  - Glassey, O.
+A2  - Bannister, F.
+A2  - Wimmer, M.A.
+AB  - Interoperability of e-government systems is suggested to increase transparency, efficiency, effectiveness, and customer service in the public sector. Generic data models are often seen as a way for achieving especially semantic interoperability. To assess how the contemporary data models support semantic egovernment interoperability, we reviewed literature on data models suggested for the public sector in light of four features: standard modelling language, entityrelationship modelling, vocabulary for data exchange and methodology. The review contributes previous research by introducing a four-feature framework for assessing capability of e-government data models to enhance interoperability and by providing an up-To-date review of the generic data models for this purpose. © 2014 The Authors and IOS Press.
+C3  - Innov. Public Sect.
+DA  - 2014///
+PY  - 2014
+DO  - 10.3233/978-1-61499-429-9-106
+VL  - 21
+SP  - 106
+EP  - 119
+LA  - English
+PB  - IOS Press Nieuwe Hemweg 6B Amsterdam 1013 BG
+SN  - 18711073 (ISSN); 9781607507284 (ISBN); 9781607507260 (ISBN); 9781614991366 (ISBN); 9781614994282 (ISBN); 9781607509974 (ISBN); 9781586039738 (ISBN); 9781586037253 (ISBN); 9781614991120 (ISBN); 9781614992431 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019681703&doi=10.3233%2F978-1-61499-429-9-106&partnerID=40&md5=f286df66f11aa53551ae0af36fae37c9
+DB  - Scopus
+L1  - https://jyx.jyu.fi/bitstreams/718c0a09-edcb-4a35-9017-59553f35f5f1/download
+N1  - <p>Export Date: 17 January 2026; Cited By: 5</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 5</p>
+KW  - Linguistics
+KW  - Interoperability
+KW  - Information model
+KW  - Public administration
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Open data
+KW  - Data model
+KW  - Computer science
+KW  - World Wide Web
+KW  - Open government
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:25:35
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Philosophy
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - Proposal of a controlled vocabulary to solve semantic interoperability problems in social security information exchanges
+AU  - Greenberg, J.
+AU  - Delgado-Azuara, F.
+AU  - Hilera, J.
+AU  - Ruggia, R.
+T2  - Library Hi Tech
+AB  - This report aims to present the state of play of semantic interoperability problems in social security data exchanges. The subject is presented as an open issue and taking into account the circumstances of the exchanges. Electronic exchanges in European Union social security are used as a case study. Semantic level of these exchanges seems to be the weakness and the use of controlled vocabularies is proposed as possible solution. The creation and maintenance of metadata sets are finally considered as a compromise solution. The article proposes a solution for the current semantic problems in electronic exchanges of social security information. The solution could be useful for social security institutions all over the world. © 2013, Emerald Group Publishing Limited
+DA  - 2013///
+PY  - 2013
+DO  - 10.1108/LHT-02-2013-0018
+VL  - 31
+IS  - 4
+SP  - 602
+EP  - 619
+J2  - Libr. Hi Tech
+LA  - English
+SN  - 07378831 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886780396&doi=10.1108%2FLHT-02-2013-0018&partnerID=40&md5=e6ab98b1ada6a3536b44f43dab6194b6
+DB  - Scopus
+L1  - https://www.emerald.com/lht/article-pdf/31/4/602/1771287/lht-02-2013-0018.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 6</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 6</p>
+KW  - Interoperability
+KW  - Metadata
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - eGovernment
+KW  - Vocabulary
+KW  - Computer science
+KW  - World Wide Web
+KW  - Social security
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-21 08:16:06
+KW  - Computer security
+KW  - Political science
+KW  - Law
+KW  - Compromise
+KW  - Originality
+KW  - Value (mathematics)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - SBVR as a semantic hub for integration of heterogeneous systems - A case study and experience report
+AU  - Shi, L.
+AU  - Roman, D.
+AU  - Berre, A.J.
+T2  - CEUR Workshop Proceedings
+AB  - Extracting integration rules to handle semantic heterogeneity is one of the main challenges of achieving seamless connectivity between distributed systems. Semantics of Business Vocabulary and Rules (SBVR)'s machine and human readability and platform independence make it potentially suitable and interesting to study, as a central semantic hub of different systems. Semantic heterogeneity can be identified by comparing and analyzing vocabularies, fact models and business rules in the hub. Integration rules can then be extracted based on the semantic heterogeneity analysis. This article investigates and evaluates the usage of SBVR in heterogeneous systems integration. It provides a real-life case study and experience report on extracting integration rules based on an analysis of two Norwegian public sector's heterogeneous IT-systems modeled in SBVR.
+C3  - CEUR Workshop Proc.
+DA  - 2013///
+PY  - 2013
+VL  - 1004
+LA  - English
+PB  - CEUR-WS
+SN  - 16130073 (ISSN); 9789666544899 (ISBN); 9788073780029 (ISBN); 9788024810256 (ISBN); 9789986342748 (ISBN); 9788073781712 (ISBN); 9782954494807 (ISBN); 9788024823911 (ISBN); 9789562361989 (ISBN); 8024810255 (ISBN); 807378002X (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899449626&partnerID=40&md5=a043670c57a9e35915548ccdf33785d6
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0</p>
+KW  - Semantics
+KW  - Semantic heterogeneity
+KW  - Integration
+KW  - Vocabulary
+KW  - Computer programming languages
+KW  - Fact models
+KW  - Heterogeneity
+KW  - Integration rule
+KW  - Integration rules
+KW  - Ontology mismatch
+KW  - Ontology mismatches
+KW  - Rules
+KW  - SBVR
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-21 10:00:21
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Building and using terminology services for the European Centre for Disease Prevention and Control
+AU  - Balkányi, L.
+AU  - Héja, G.
+AU  - Silva Perucha, C.
+T2  - Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST
+AB  - This paper describes the process of building terminology service and using domain ontology as its conceptual backbone for a European Union agency. ECDC, established in 2005, aims at strengthening Europe's defences against infectious diseases, operates a range of information services at the crossroads of different professional domains as e.g. infectious diseases, EU regulation in public health, etc. A domain ontology based vocabulary service and a tool to disseminate its content (a terminology server) was designed and implemented to ensure semantic interoperability among different information system components. Design considerations, standard selection (SKOS, OWL) choosing external references (MeSH, ICD10, SNOMED) and the services offered on the human and machine user interface are presented and lessons learned are explained. © 2010 Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering.
+C3  - Lect. Notes Inst. Comput. Sci. Soc. Informatics Telecommun. Eng.
+DA  - 2010///
+PY  - 2010
+DO  - 10.1007/978-3-642-11745-9_19
+VL  - 27 LNICST
+SP  - 116
+EP  - 123
+LA  - English
+SN  - 18678211 (ISSN); 9783032019035 (ISBN); 9783031969430 (ISBN); 9783031944413 (ISBN); 9783032014719 (ISBN); 9783642039775 (ISBN); 9783031717154 (ISBN); 9783319737119 (ISBN); 9783030955304 (ISBN); 9783642236341 (ISBN); 9783031606649 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84885890082&doi=10.1007%2F978-3-642-11745-9_19&partnerID=40&md5=3aeae9457d1d1110132c42ab811bed1f
+DB  - Scopus
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-642-11745-9_19.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: L. Balkányi; European Centre for Disease Prevention and Control, Stockholm, Tomtebodavägen 11a, Sweden; email: laszlo.balkanyi@ecdc.europa.eu</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 0; Correspondence Address: L. Balkányi; European Centre for Disease Prevention and Control, Stockholm, Tomtebodavägen 11a, Sweden; email: laszlo.balkanyi@ecdc.europa.eu</p>
+KW  - Linguistics
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantics
+KW  - European union
+KW  - Terminology
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Domain ontologies
+KW  - Health care
+KW  - Information services
+KW  - Vocabulary
+KW  - European Union
+KW  - Domain ontology
+KW  - Computer science
+KW  - User interfaces
+KW  - World Wide Web
+KW  - SNOMED CT
+KW  - Disease control
+KW  - Public health
+KW  - Design considerations
+KW  - Disease prevention
+KW  - ECDC
+KW  - EU regulations
+KW  - Infectious disease
+KW  - Terminology services
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 10:34:20
+KW  - Business
+KW  - Telecommunications
+KW  - Dissemination
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Model-driven eGovernment interoperability: A review of the state of the art
+AU  - Peristeras, V.
+AU  - Tarabanis, K.
+AU  - Goudos, S.K.
+T2  - Computer Standards and Interfaces
+AB  - This paper reviews the state of the art in the area of enhancing eGovernment interoperability by using common models and/or ontologies. This area has currently become a very active research field. We identify and present a significant number (> 40) of relevant efforts. These initiatives are grouped into categories based on the owner, scope and modelling perspective of each project. We then focus on the cases that build generic and universal eGovernment representations and models. We analyse, evaluate and rate them using an additional set of criteria. We end up with conclusions and possible directions for the exploitation and usage of these models. © 2008 Elsevier B.V. All rights reserved.
+DA  - 2009///
+PY  - 2009
+DO  - 10.1016/j.csi.2008.09.034
+VL  - 31
+IS  - 4
+SP  - 613
+EP  - 628
+J2  - Comput Stand Interfaces
+LA  - English
+SN  - 09205489 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-64549163673&doi=10.1016%2Fj.csi.2008.09.034&partnerID=40&md5=dcf01bb1f3cdeb7cb116394fda2aa7e6
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 59; Correspondence Address: S.K. Goudos; Telecommunications Centre, Aristotle University of Thessaloniki, GR-541 24 Thessaloniki, Greece; email: sgoudo@physics.auth.gr; CODEN: CSTIE</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 59; Correspondence Address: S.K. Goudos; Telecommunications Centre, Aristotle University of Thessaloniki, GR-541 24 Thessaloniki, Greece; email: sgoudo@physics.auth.gr; CODEN: CSTIE</p>
+KW  - Important
+KW  - Public Sector
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantics
+KW  - Paper Marijn
+KW  - review:Decision=excluded
+KW  - review:Time=2025-10-31 14:44
+KW  - review:extra_tags_relevance_high=0
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_medium=0
+KW  - Information theory
+KW  - Semantic web
+KW  - Ontologies
+KW  - Common models
+KW  - Data modelling
+KW  - Domain modelling
+KW  - eGovernment interoperability
+KW  - Model-driven
+KW  - Process modelling
+KW  - Research fields
+KW  - State-of-the arts
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-21 10:06:24
+KW  - Requirements Classification
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Ensuring large-scale semantic interoperability: The estonian public sector's case study
+AU  - Haav, H.-M.
+AU  - Kalja, A.
+AU  - Küngas, P.
+AU  - Luts, M.
+T2  - Frontiers in Artificial Intelligence and Applications
+AB  - E-services are built upon the exchange of information between several databases and institutions. The creation process of new e-services may be not an efficient one because the discovery, integration and reuse of appropriate information resources is time-consuming as the meaning of these information resources is not well-enough documented. In order to describe the meaning of information resources - being poured into hundreds of heterogeneous databases, distributed between several institutions - some coordination, principles, architecture and infrastructure are needed. This paper outlines proposed large-scale semantic interoperability architecture and its pilot implementation in the Estonian public sector's semantic interoperability initiative. © 2009 The authors and IOS Press. All rights reserved.
+C3  - Front. Artif. Intell. Appl.
+DA  - 2009///
+PY  - 2009
+DO  - 10.3233/978-1-58603-939-4-117
+VL  - 187
+IS  - 1
+SP  - 117
+EP  - 128
+LA  - English
+PB  - IOS Press
+SN  - 09226389 (ISSN); 18798314 (ISSN); 9781614993605 (ISBN); 9781643685830 (ISBN); 9781586038311 (ISBN); 9781614994183 (ISBN); 9781614999409 (ISBN); 9781607507987 (ISBN); 1586035770 (ISBN); 9781643685694 (ISBN); 9781643685427 (ISBN); 9781607500490 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-72749096066&doi=10.3233%2F978-1-58603-939-4-117&partnerID=40&md5=ad2a1979162cba1e1cffa78a058842bd
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 5; Correspondence Address: M. Luts; Department of Informatics, Tallinn University of Technology, Estonia; email: martin.luts@eesti.ee</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 5; Correspondence Address: M. Luts; Department of Informatics, Tallinn University of Technology, Estonia; email: martin.luts@eesti.ee</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Semantics
+KW  - Database systems
+KW  - Web services
+KW  - Information use
+KW  - Ontology's
+KW  - Semantic interoperability
+KW  - Public sector
+KW  - E-services
+KW  - Case-studies
+KW  - Web service annotation
+KW  - Information resource
+KW  - Large-scales
+KW  - XBRL
+KW  - XMI
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:20:43
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Achieving interoperability in e-government services with two modes of semantic bridging: SRS and SWRL
+AU  - Muthaiyah, S.
+AU  - Kerschberg, L.
+T2  - Journal of Theoretical and Applied Electronic Commerce Research
+AB  - Data heterogeneity in the public sector is a serious problem and remains to be a key issue as different naming conventions are used to represent similar data labels. The e-government effort in many countries has provided a platform for government entities and their business partners to exchange data through Information Communication Technologies (ICT) and standards such as RosettaNet (B2B data exchange standard), EDIFACT (Electronic Data Interchange for Administration, Commerce, and Transport), XML (Extensible Markup Language) and EDI (Electronic Data Interchange). However, e-government efforts have not really resolved data heterogeneity problems significantly due to limitation of these standards. One such limitation is the inability of data inheritance. In order to solve this problem with emphasis on Service Oriented Architectures (SOA) and Web Services, a semantically enriched web service for the public sector is needed. Thus we propose an ontology-based solution which allows data inheritance and polymorphism. This goal of this paper is to show how heterogeneous e-government documents can be semantically matched. We propose a shared hierarchical knowledge repository approach and a detailed process methodology for semantic mediation. A two-part semantic mediation approach using SRS (Semantic Relatedness Scores) and SWRL (Semantic Web Rule Language) is highlighted. Both measures are complimentary and provide the semantics necessary for resolving schema heterogeneity. Our approach incorporates a rule-based engine that reads and executes SWRL rules (i.e. RacerPro). We also adopted several tools for proof-of-concept such as Protege (i.e. ontology editor) and JESS (Java Expert Shell System). © 2008 Universidad de Talca-Chile.
+DA  - 2008///
+PY  - 2008
+DO  - 10.4067/S0718-18762008000200005
+VL  - 3
+IS  - 3
+SP  - 52
+EP  - 63
+J2  - J. Theor. Appl. Electron. Commer. Res.
+LA  - English
+PB  - Universidad de Talca
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-60149110519&doi=10.4067%2FS0718-18762008000200005&partnerID=40&md5=72f1ff72082a59bd321d254819369ca3
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 22; Correspondence Address: S. Muthaiyah; George Mason University, E-Center for E-Business, United States; email: smuthaiy@gmu.edu</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 22; Correspondence Address: S. Muthaiyah; George Mason University, E-Center for E-Business, United States; email: smuthaiy@gmu.edu</p>
+KW  - Ontology
+KW  - review:Decision=included
+KW  - review:Time=2025-10-31 14:51
+KW  - review:extra_tags_relevance_high=0
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:extra_tags_relevance_low=1
+KW  - Web services
+KW  - XML
+KW  - Semantic web
+KW  - Semantic
+KW  - EDI
+KW  - Mediation reasoning
+KW  - Syntactic
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Note: EC1 – Off-topic
+KW  - ASReview_Time: 2026-01-17 11:44:18
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - A study on dynamic ontology for information integration in E-governmental virtual organization
+AU  - Tang, X.
+AU  - Yang, F.
+AB  - In this paper, the research background is E-government virtual organization (EGVO). In order to provide users with the same interface for accessing to semantic data, and to realize knowledge share and reuse among various kinds of governmental resources, this paper brings ontology technology into EGVO information integration. Ontology solves the semantic heterogeneity problem of distributed, heterogeneous and autonomous data source; it can realize the semantic interoperability. However, the governmental objects in EGVO are highly dynamic and unpredictable. The information integration is changing along with the objects, thus the corresponding ontology also needs to be changed. This paper mainly discusses the changing process of dynamic ontology and the correlative methods. © 2007 IEEE.
+C3  - Int Conf Wirel Commun Networking Mob Comput
+DA  - 2007///
+PY  - 2007
+DO  - 10.1109/WICOM.2007.890
+SP  - 3600
+EP  - 3604
+LA  - English
+PB  - IEEE Computer Society
+SN  - 1424413125 (ISBN); 9781424413126 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049042933&doi=10.1109%2FWICOM.2007.890&partnerID=40&md5=ee533c32fd7ccc904c1666a071688a10
+DB  - Scopus
+L1  - https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=4340665&ref=
+N1  - <p>Export Date: 17 January 2026; Cited By: 5; Correspondence Address: X. Tang; School of Information Management, Wuhan University, Wuhan, China; email: xbtang@hb165.com</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 5; Correspondence Address: X. Tang; School of Information Management, Wuhan University, Wuhan, China; email: xbtang@hb165.com</p>
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Information integration
+KW  - Semantic heterogeneity
+KW  - Information systems
+KW  - Semantic interoperability
+KW  - Information retrieval
+KW  - Knowledge management
+KW  - Reuse
+KW  - Semantic integration
+KW  - Computer science
+KW  - Virtual reality
+KW  - User interfaces
+KW  - World Wide Web
+KW  - Public policy
+KW  - Electronic commerce
+KW  - Research and development management
+KW  - Virtual organization
+KW  - Dynamic ontology
+KW  - Dynamic programming
+KW  - E-government virtual organization (EGVO)
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 11:29:10
+KW  - Ontology-based data integration
+KW  - Upper ontology
+KW  - Process (computing)
+KW  - Engineering
+KW  - Semantic Web Stack
+KW  - Interface (matter)
+KW  - Grid
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - CONF
+TI  - Knowledge modelling for integrating e-Government applications and semantic web services
+AU  - Gugliotta, A.
+AU  - Cabral, L.
+AU  - Domingue, J.
+AB  - Service integration and domain interoperability are the basic requirements in the development of current service-oriented e-Government applications. Semantic Web and, in particular, Semantic Web Service (SWS) technology aim to address these issues. However, the integration between e-Government applications and SWS is not an easy task. We argue that a more complex semantic layer needs to be modeled. The aim of our work is to provide an ontological framework that maps such a semantic layer. In this paper, we describe our approach for creating a project-independent and reusable model, and provide a case study that demonstrates its applicability. Copyright © 2006, American Association for Artificial Intelligence (www.aaai.org). All rights reserved.
+C3  - AAAI Spring Symp. Tech. Rep.
+DA  - 2006///
+PY  - 2006
+VL  - SS-06-06
+SP  - 21
+EP  - 32
+LA  - English
+SN  - 9781577353119 (ISBN); 9781577352655 (ISBN); 9781577356042 (ISBN); 1577352661 (ISBN); 9781577355502 (ISBN); 9781577352662 (ISBN); 9781577355991 (ISBN); 9781577354970 (ISBN); 9781577354130 (ISBN); 9781577352686 (ISBN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33747203529&partnerID=40&md5=7c973017863952e3ae77c005e9ce4e19
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 4; Correspondence Address: A. Gugliotta; Knowledge Media Institute, Open University, Walton Hall, Milton Keynes, MK7 6AA, United Kingdom; email: a.gugliotta@open.ac.uk</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 4; Correspondence Address: A. Gugliotta; Knowledge Media Institute, Open University, Walton Hall, Milton Keynes, MK7 6AA, United Kingdom; email: a.gugliotta@open.ac.uk</p>
+KW  - Semantics
+KW  - Knowledge based systems
+KW  - Computer science
+KW  - Knowledge modelling
+KW  - World Wide Web
+KW  - Semantic Web Services
+KW  - Computer simulation
+KW  - Information science
+KW  - Information technology
+KW  - Computational complexity
+KW  - e-Government applications
+KW  - Ontological framework
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 09:17:22
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Social perspectives on semantic interoperability: Constraints on geographical knowledge from a data perspective
+AU  - Schuurman, N.
+T2  - Cartographica
+AB  - Much attention has been paid by government agencies and GIS researchers to standardization of data and interoperability of systems. Many of these efforts, however, have focused narrowly on technical hurdles while ignoring the social and political contexts that influence interoperability decisions. This article illustrates how social factors influence interoperability along three axes: classification, ontologies of data models, and government policy. Extant research approaches to interoperability of GIS are discussed and their strengths and weaknesses assessed. The article begins with definitions of what interoperability is, why it is important to academic users and policy makers, and its influence on geographical knowledge in a digital age. Exploration of social influences, as an alternative analytical approach to interoperability, begins with a discussion of the roles of classification and scale. The dangers of maintaining inflexible ontologies associated with specific data models are illustrated as a technical limitation with profound social implications for the construction of knowledge. Finally, policy at the multiple levels of governance with respect to interoperability is explored as an infrastructural constraint - and a diminishing influence.
+DA  - 2005///
+PY  - 2005
+DO  - 10.3138/9643-114R-7787-5253
+VL  - 40
+IS  - 4
+SP  - 47
+EP  - 61
+J2  - Cartographica
+LA  - English
+SN  - 03177173 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-32544448503&doi=10.3138%2F9643-114R-7787-5253&partnerID=40&md5=f89d41141cb07ee90cc2a54fb6aa26f5
+DB  - Scopus
+N1  - <p>Export Date: 17 January 2026; Cited By: 36; Correspondence Address: N. Schuurman; Department of Geography, Simon Fraser University, Burnaby, BC V5A 1S6, 8888 University Drive, Canada; email: nadine@sfu.ca</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 36; Correspondence Address: N. Schuurman; Department of Geography, Simon Fraser University, Burnaby, BC V5A 1S6, 8888 University Drive, Canada; email: nadine@sfu.ca</p>
+KW  - Interoperability
+KW  - Semantic interoperability
+KW  - GIS
+KW  - Data standardization
+KW  - perception
+KW  - social theory
+KW  - Spatial databases
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-21 10:10:23
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - A holistic model for assessing organizational interoperability in public administration
+AU  - Margariti, Vasiliki
+AU  - Stamati, Teta
+AU  - Anagnostopoulos, Dimosthenis
+AU  - Nikolaidou, Mara
+AU  - Papastilianou, Anastasia
+T2  - Government Information Quarterly
+AB  - Achieving organizational interoperability in public administration is a crucial factor for successful digital transformation, although there are still many challenges and limitations regarding organizational factors. A detailed and comparative review on the evaluation of existing assessment models and tools is provided revealing the need for a holistic assessment. As result of the research, a new model is introduced for organizational interoperability assessment enhancing existing holistic models and corresponding tools with additional attributes. The development process of the new model (MOIA) is presented and the justification of alignment with the corresponding recommendations of the new European Interoperability Framework (EIF) is described. An incremental methodological approach of evaluation waves is followed to assess the additional attributes required to consider barriers and concerns regarding organizational interoperability. The Greek Electronic Public Procurement System (ESIDIS) used as the case study to validate the use of the model and calculate model’s attributes weights.
+DA  - 2022/07//
+PY  - 2022
+DO  - 10.1016/j.giq.2022.101712
+DP  - DOI.org (Crossref)
+VL  - 39
+IS  - 3
+SP  - 101712
+J2  - Government Information Quarterly
+LA  - en
+SN  - 0740624X
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0740624X22000454
+Y2  - 2025/10/31/11:24:47
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - review:Time=2025-10-31 16:31
+KW  - DONE
+KW  - LR_Previous Studies
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Semantic interoperability architecture for Governance 2.0
+AU  - Ojo, Adegboyega
+AU  - Estevez, Elsa
+AU  - Janowski, Tomasz
+T2  - Information Polity
+AB  - The increasing use of social media by governments for improving citizen access to information, participation of stakeholders in policy processes and delivery of customer-focused services are among the deﬁning features of the socalled “Governance 2.0” phenomenon. Another feature is the interaction between existing government networks and social networks of citizens and policy actors in order to disseminate government information and seek contributions from citizens and other actors to policies, decisions and services. This article examines the semantic issues associated with the emerging Governance 2.0 networks. It evolves an architectural framework to guide governments and their agencies in developing semantic interoperability capabilities. We approach the problem by ﬁrst developing a conceptual model for analyzing semantic interoperability requirements in general. Next, we provide a case study to generate interesting scenarios and identify concrete semantic interoperability issues arising from the interactions between citizens, businesses and government through traditional and electronic channels and different forms of social media. Subsequently, we present a Semantic Interoperability Architecture Framework to address these issues based on existing government semantic interoperability frameworks and semantic standards for Web 2.0. After validating the prescribed framework, we discuss how it could be used in practice by governments.
+DA  - 2010/08/04/
+PY  - 2010
+DO  - 10.3233/IP-2010-0199
+DP  - DOI.org (Crossref)
+VL  - 15
+IS  - 1,2
+SP  - 105
+EP  - 123
+J2  - IP
+LA  - en
+SN  - 18758754, 15701255
+UR  - https://journals.sagepub.com/doi/full/10.3233/IP-2010-0199
+Y2  - 2025/10/31/11:00:48
+KW  - review:Decision=included
+KW  - review:Time=2025-10-31 15:50
+KW  - review:extra_tags_relevance_low=0
+KW  - review:extra_tags_relevance_high=1
+KW  - review:extra_tags_relevance_medium=0
+KW  - DONE
+KW  - LR_Previous Studies
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - A Categorization of Cross-Domain Semantic Interoperability Challenges for Open (Government) Data
+AU  - Maratsi, Maria Ioanna
+AU  - Charalabidis, Yannis
+AU  - Alexopoulos, Charalampos
+AB  - The benefits of open data have by now been extensively investigated. However, the generated data grows at a rapid pace and, with it, a plethora of concerns including, among others, data quality, interpretability, machine-readability, and interoperability. The present study aims to review recent literature regarding the semantic interoperability challenges for open (and government) data and to examine the status for difficult areas of research which have not yet been sufficiently addressed. The literature review revealed various sector-specific but also general, cross-domain challenges, which were then categorized into four groups according to the source where the issue usually stems from. As far as the status of approaches to the identified challenges is concerned, there appears to be a tendency to avoid fit-to-all solutions and instead follow a more domain-specific strategy to enable semantic interoperability, and allow for cross-domain reuse, wherever this is possible.
+DA  - 2023/09//
+PY  - 2023
+DO  - 10.5281/zenodo.8405353
+DP  - Zotero
+LA  - en
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_high=1
+KW  - DONE
+KW  - LR_Previous Studies
+KW  - LR_PriorKnowledge: positive
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - How to create and use a national cross-domain ontology and data infrastructure on the Semantic Web
+AU  - Hyvönen, Eero
+T2  - Semantic Web
+A2  - Corcho, Oscar
+AB  - This paper presents a model and lessons learned for creating a cross-domain national ontology and Linked (Open) Data (LOD) infrastructure. The idea is to extend the global, domain agnostic “layer cake model” underlying the Semantic Web with domain speciﬁc and local features needed in applications. To test and demonstrate the infrastructure, a series of LOD services and portals in use have been created in 2002–2023 that cover a wide range of application domains. They have attracted millions of users in total suggesting feasibility of the proposed model. This line of research and development is unique due to its systematic national level nature and long time span of over twenty years.
+DA  - 2024/10/04/
+PY  - 2024
+DO  - 10.3233/SW-243468
+DP  - DOI.org (Crossref)
+VL  - 15
+IS  - 4
+SP  - 1499
+EP  - 1513
+J2  - SW
+LA  - en
+SN  - 22104968, 15700844
+UR  - https://journals.sagepub.com/doi/full/10.3233/SW-243468
+Y2  - 2025/11/21/21:13:39
+KW  - review:Decision=included
+KW  - review:extra_tags_relevance_high=1
+KW  - DONE
+KW  - LR_Previous Studies
+KW  - LR_PriorKnowledge: positive
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - Knowledge Graph based Representation to Extract Value from Open Governement Data An Application to the Public Procurement Domain
+AU  - Younsi Dahbi, K.Y.
+AU  - Chiadmi, D.
+AU  - Lamharhar, H.
+T2  - International Journal of Advanced Computer Science and Applications
+AB  - Open government data refers to data that is made available by government entities to be freely reused by anyone and for any purpose. The potential benefits of open government data are numerous and include increasing transparency and accountability, enhancing citizens' quality of life, and boosting innovation. However, realizing these benefits is not always straightforward, as the usage of this raw data often faces challenges related to its format, structure, and heterogeneity which hinder its processability and integration. In response to these challenges, we propose an approach to maximize the usage of open government data and achieve its potential benefits. This approach leverages knowledge graphs to extract value from open government data and drive the construction of a knowledge graph from structured, semi-structured, and non-structured formats. It involves the extraction, transformation, semantic enrichment, and integration of heterogeneous open government data sources into an integrated and semantically enhanced knowledge graph. Learning mechanisms and ontologies are used to efficiently construct the knowledge graph. We evaluate the effectiveness of the approach using real-world public procurement data and show that it can detect potential fraud such as favoritism © 2023, International Journal of Advanced Computer Science and Applications.All Rights Reserved.
+DA  - 2023///
+PY  - 2023
+DO  - 10.14569/IJACSA.2023.0140329
+VL  - 14
+IS  - 3
+SP  - 255
+EP  - 262
+J2  - Intl. J. Adv. Comput. Sci. Appl.
+LA  - English
+PB  - Science and Information Organization
+SN  - 2158107X (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151805160&doi=10.14569%2FIJACSA.2023.0140329&partnerID=40&md5=8984dce446afa1e91c91ea72207b11e7
+DB  - Scopus
+L1  - https://thesai.org/Downloads/Volume14No3/Paper_29-Knowledge_Graph_based_Representation_to_Extract_Value.pdf
+N1  - <p>Export Date: 17 January 2026; Cited By: 2</p>
+N1  - <p>Export Date: 17 January 2026; Cited By: 2</p>
+KW  - Semantics
+KW  - Metadata
+KW  - Data mining
+KW  - Data integration
+KW  - Graphic methods
+KW  - Knowledge graphs
+KW  - Open Data
+KW  - Knowledge graph
+KW  - Open government data
+KW  - Digital storage
+KW  - Crime
+KW  - fraud detection
+KW  - Fraud detection
+KW  - Government entities
+KW  - Graph construction
+KW  - Graph-based representations
+KW  - knowledge graph construction
+KW  - Knowledge graph construction
+KW  - open government data
+KW  - Potential benefits
+KW  - public procurement
+KW  - Public procurement
+KW  - LR_Query: Scopus_02
+KW  - LR_SearchDate: 2026-01-17
+KW  - ASReview: Relevant
+KW  - ASReview_Time: 2026-01-17 11:46:03
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - IEEE standard upper ontology: a progress report
+AU  - Pease, Adam
+AU  - Niles, Ian
+T2  - The Knowledge Engineering Review
+AB  - The IEEE Standard Upper Ontology (IEEE, 2001) is an effort to create a large, general-purpose, formal ontology. The ontology will be an open standard that can be reused for both academic and commercial purposes without fee, and it will be designed to support additional domain-specific ontologies. The effort is targeted for use in automated inference, semantic interoperability between heterogeneous information systems and natural language processing applications. The effort was begun in May 2000 with an e-mail discussion list, and since then there have been over 6000 e-mail messages among 170 subscribers. These subscribers include representatives from government, academia and industry in various countries. The effort was officially approved as an IEEE standards project in December 2000. Recently a successful workshop was held at IJCAI 2001 to discuss progress and proposals for this project (IJCAI, 2001). There are currently two ontologies that have been proposed to the group. One is an upper-level ontology (Niles & Pease, 2001; Teknowledge, 2002) that was created by merging publicly available formal content into a single, cohesive structure. This is known as the SUMO (Suggested Upper Merged Ontology). The other is a meta-ontology based on category theory (Kent, 2001), and it is known as the IFF Foundation Ontology. This paper addresses the SUO effort mainly from the perspective of the SUMO. Note also that this paper reflects the personal views of the authors and not necessarily any consensus of the IEEE SUO group. There have been many lively discussions on the SUO mailing list regarding various philosophical, logical, mathematical and engineering issues. Some of these issues have had a direct impact on the documents, and other issues are still unresolved. In what follows, we will attempt to highlight some of the most interesting and/or relevant debates. Given the limits of space in this article, no attempt will be made to attribute views to particular participants. Interested readers are encouraged to examine the  public email archive for the group at http://suo.ieee.org/email/thrd1.html.
+DA  - 2002/03/01/
+PY  - 2002
+DO  - 10.1017/s0269888902000395
+VL  - 17
+IS  - 1
+SP  - 65
+EP  - 70
+LA  - en
+PB  - Cambridge University Press
+SN  - 0269-8889
+UR  - https://doi.org/10.1017/s0269888902000395
+KW  - Interoperability
+KW  - Semantic Web
+KW  - Ontology
+KW  - Computer science
+KW  - Software engineering
+KW  - World Wide Web
+KW  - ASReview: Relevant
+KW  - Data science
+KW  - Government (linguistics)
+KW  - Upper ontology
+KW  - Domain (mathematical analysis)
+KW  - Engineering
+KW  - Engineering management
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - ASReview_GroupID: 3
+KW  - ASReview_Time: 2026-04-10 18:30:01
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Semantic Interoperability Middleware – Enabling collaborative networks in public sector
+AU  - Sánchez, Alejandro
+AU  - Estévez, Elsa
+AU  - Janowski, Tomasz
+AU  - Ojo, Adegboyega
+T2  - El Servicio de Difusión de la Creación Intelectual (National University of La Plata)
+AB  - Electronic Government initiatives, such as seamless public services delivered at one-stop government portals, require establishing collaborative networks among public- and private-sector organizations. However, semantic interoperability problems emerge as these organizations may differ in the terms and meanings they use to communicate, express their needs and describe resources they make available to each other. This paper describes typical semantic interoperability problems and presents a middleware solution to address them, called Semantic Interoperability Middleware (SIM). The paper illustrates the problems through three case studies in a collaborative network for the delivery of welfare benefits. Subsequently, the requirements for SIM are presented, and the architecture and design of the solution are specified using UML. SIM assumes organizations have agreed on ontologies that reflect the meaning of terms they use in communicating. It comprises three services: Mediation – resolves differences in terms and meaning; Validation – detects inconsistent terms and meaning; and Discovery – mediates and matches need with resource descriptions. Finally, the case studies are resolved applying SIM.
+DA  - 2008/01/01/
+PY  - 2008
+LA  - es
+PB  - Universidad Nacional de La Plata
+KW  - Interoperability
+KW  - Semantic interoperability
+KW  - Knowledge management
+KW  - Computer science
+KW  - World Wide Web
+KW  - ASReview: Relevant
+KW  - Government (linguistics)
+KW  - Political science
+KW  - Law
+KW  - Mediation
+KW  - Distributed computing
+KW  - Meaning (existential)
+KW  - Middleware (distributed applications)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - ASReview_GroupID: 33
+KW  - ASReview_Time: 2026-04-10 17:26:30
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Artificial Intelligence for Interoperability in the European Public Sector
+AU  - Luca, TANGI
+AU  - Marco, COMBETTO
+AU  - Jaume, MARTIN
+AU  - Paula, RODRIGUEZ
+T2  - RePEc: Research Papers in Economics
+AB  - This report provides the result of a research study conducted within the context of the Public Sector Tech Watch, an observatory developed by DG DIGIT, with the support of the Joint Research Centre (JRC), that provides a knowledge hub and a virtual space where public administrations, civil society, GovTech companies and researchers can find and share knowledge and experience. The report’s primary goal is to offer an analysis of how Artificial Intelligence (AI) systems are improving interoperability in the European Public Sector. The findings are based on three pillars: (i) a literature and policy review on the synergies between AI and interoperability; (ii) a quantitative analysis of a selected set of 189 use cases fitting the purpose of the research question; and (iii) a qualitative study going deeper into some illustrative cases. The findings highlight that the one-fourth of the cases collected are using AI techniques to support interoperability through a varied set of applications. Moreover, the semantic interoperability layer is fundamental in most of the cases. In addition, ontologies and taxonomies combined with AI can help in establishing interoperability between different systems. The solutions analysed classify, detect and provide structure, among other actions performed on data. Hence, AI has the capability to standardise, clean, structure and increase the usage of large volumes of data, thus improving overall quality and making it easier to use and share between different systems.
+DA  - 2023///
+PY  - 2023
+PB  - Federal Reserve Bank of St. Louis
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantic interoperability
+KW  - Public sector
+KW  - ASReview: Relevant
+KW  - Context (archaeology)
+KW  - Set (abstract data type)
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - ASReview_GroupID: 36
+KW  - ASReview_Time: 2026-04-10 17:16:35
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Learning-Based Semantic Alignment in Cross-Institution Health Data Exchange
+AU  - Surianarayanan, Gayathri
+T2  - International Journal of Global Innovations and Solutions (IJGIS)
+AB  - Healthcare ecosystems today are built upon the exchange of health data between multiple types of organizations, including provider organizations, payers, laboratories, public health agencies, and government programs. While syntactical standards, such as HL7 v2, FHIR, X12, and CDA have been widely adopted to enable the exchange of data electronically, the lack of consistent semantics across institutions continues to create barriers to the correct interpretation of data exchanged electronically, automated workflows and analytics. The variability in schema design, terminology use, contextual meaning, and workflow specific customization creates ambiguity in data exchanged electronically which cannot be eliminated by using rule based mapping techniques or static ontologies. In this paper we present a novel, learning-based semantic alignment framework for cross-institutional health data exchange which utilizes representation learning, contextual embeddings and probabilistic alignment scoring to align schematically disparate healthcare datasets. Our proposed approach consists of three main components; schema-level feature learning to extract common features from the source and target schemas, a context aware similarity model that measures the similarity between the two schemas, and an explainability driven validation process to ensure that the alignment decisions made are trusted and suitable for regulated environments. We also present a multilayer architecture to facilitate both semantic discovery, alignment confidence estimation, human-in-the-loop review and regulatory auditability. We evaluate our proposed approach on synthetic but realistic healthcare schemas developed from electronic health record (EHR) data, claims data and enrollment system data, and compare our approach with two baseline approaches; one that uses rules to align the two schematics and another that uses an ontology to align the two schematics. Finally, our proposed approach includes governance controls that meet all applicable requirements of HIPAA, CMS, and NIST AI Risk Management Framework (RMF).
+DA  - 2026/02/28/
+PY  - 2026
+DO  - 10.63412/688p6356
+VL  - 3
+IS  - 2
+SN  - 2998-2251
+UR  - https://doi.org/10.63412/688p6356
+L1  - https://ijgis.org/home/article/download/55/29
+L4  - https://ijgis.org/home/article/download/55/29
+L4  - https://ijgis.org/home/article/download/55/29
+KW  - Semantic heterogeneity
+KW  - Terminology
+KW  - Workflow
+KW  - Semantic integration
+KW  - Data exchange
+KW  - ASReview: Relevant
+KW  - Context (archaeology)
+KW  - Semantics (computer science)
+KW  - Ambiguity
+KW  - Health information exchange
+KW  - Schema matching
+KW  - LR_Query: OpenAlex_1
+KW  - LR_SearchDate: 2026-04-10
+KW  - ASReview_GroupID: 61
+KW  - ASReview_Time: 2026-04-10 18:02:12
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
+TY  - JOUR
+TI  - Technical, Semantic and Organizational Issues of Enterprise Interoperability and Networking
+AU  - Vernadat
+DA  - 2010///
+PY  - 2010
+DO  - 10.3182/20090603-3-ru-2001.0579
+L2  - https://doi.org/10.3182/20090603-3-ru-2001.0579
+L2  - https://doi.org/10.3182/20090603-3-ru-2001.0579
+KW  - Semantic Interoperability
+KW  - Snowballing_Backward
+KW  - MDIM Literature Review
+KW  - Snowballing
+KW  - LR_Full_Text_Assessment_Score: 8
+ER  - 
+
+TY  - JOUR
+TI  - Semantic Fusion with Deep Learning and Formal Ontologies for Evaluation of Policies and Initiatives in the Smart City Domain
+AU  - Kilicay‐Ergin, Nil
+AU  - Barb, Adrian S.
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/app112110037
+L1  - https://www.mdpi.com/2076-3417/11/21/10037/pdf?version=1635318340
+L4  - https://www.mdpi.com/2076-3417/11/21/10037/pdf?version=1635318340
+KW  - Semantic Interoperability
+KW  - Snowballing_Forward
+KW  - MDIM Literature Review
+KW  - Snowballing
+KW  - LR_Full_Text_Assessment_Score: 7
+ER  - 
+
